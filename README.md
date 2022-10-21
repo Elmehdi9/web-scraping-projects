@@ -52,7 +52,6 @@ The following open source packages are used in this project:
 * csv
 * json
 
-<br>
 
 
 ## Folder structure
