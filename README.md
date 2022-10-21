@@ -31,7 +31,6 @@ This repository has a collection of web scraping projects. I attempted to scrape
 
 I recommend starting with the notebook that scrapes movie data from <a href=''>Cineb.com</a> since it provides an understanding of how the scraping is done.
 
-<br>
 
 ## Prerequisites
 <br>
