@@ -1,0 +1,599 @@
+make,model,price,body_color,interior_color,interior_material,body,doors,seats,vin,fuel,transmission,drive_type,power,engine_capacity,co2_emission,emission_class,driven_distance,first_registration,condition
+Seat,Leon,3 049 €,None,Interior color,Other interior material,Compact,4/5 doors,5,1249,Petrol,Manual,4x2,92 kW,1 390 cc,149,Euro 4,158 500 km,6/2009,Used
+Opel,Crossland X,15 899 €,Orange,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Diesel,Manual,4x2,88 kW,15 600 cc,103,Euro 6,69 000 km,8/2017,2
+Kia,XCeed,24 649 €,Silver,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Petrol,Manual,4x2,103 kW,13 534 cc,134,Euro 6d-TEMP,19 500 km,10/2020,Used
+Renault,Clio,15 099 €,Grey,Interior color,Other interior material,Compact,4/5 doors,1090,None,Diesel,Manual,4x2,66 kW,14 641 cc,135,Euro 6,13 884 km,11/2019,Used
+Mercedes-Benz,E 350,10 899 €,Black,Type of finish,Beige interior,Full leather interior,Station Wagon,4/5 doors,5,Petrol,Automatic,4x4,200 kW,3 498 cc,261,Euro 4,163 000 km,1/2009,2
+Fiat,Grande Punto,2 699 €,Blue,Interior color,Other interior material,Sedans / saloons,4/5 doors,5,None,Petrol,Manual,4x2,48 kW,1 242 cc,139,Euro 4,146 000 km,5/2009,2
+Audi,S3,36 199 €,Yellow,Type of finish,Black interior,Part leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x4,228 kW,1 984 cc,169,Euro 6d,14 470 km,3/2021,1
+Volkswagen,T-Roc,30 999 €,White,Interior color,Cloth interior,SUV / offroad,4/5 doors,5,None,Petrol,Manual,4x2,110 kW,14 980 cc,149,Euro 6,7 866 km,5/2022,Demonstration car
+Chevrolet,Matiz,3 099 €,Other interior color,Interior material,Compact,4/5 doors,5,850,None,Petrol,Manual,4x2,38 kW,796 cc,127,Euro 4,56 157 km,8/2009,Used
+Opel,Insignia,8 399 €,Black,Type of finish,Brown interior,Full leather interior,Station Wagon,4/5 doors,5,Petrol,Manual,4x4,221 kW,1 998 cc,219,Euro 5,135 000 km,4/2009,4
+Opel,Astra,4 699 €,Grey,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,5,Petrol,Manual,4x2,85 kW,1 598 cc,158,Euro 4,134 802 km,3/2009,2
+Ford,Fiesta,3 849 €,Silver,Type of finish,Grey interior,Cloth interior,Compact,4/5 doors,5,Petrol,Manual,4x2,60 kW,1 242 cc,133,Euro 5,120 160 km,3/2009,2
+Volkswagen,Caddy,22 649 €,Blue,Type of finish,Black interior,Cloth interior,Cargo VAN,4/5 doors,2,Diesel,Automatic,4x4,110 kW,1 968 cc,144,Euro 6,53 952 km,6/2019,Used
+Dodge,Charger,41 899 €,Green,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x2,362 kW,6 417 cc,333,Euro 6,31 200 km,8/2019,2
+Dodge,RAM,47 099 €,Blue,Interior color,Alcantara interior,Pick-up,4/5 doors,5,None,Petrol,Automatic,4x4,295 kW,5 654 cc,298,Euro 6,7 600 km,3/2021,1
+Opel,Antara,7 099 €,Black,Type of finish,Other interior color,Cloth interior,SUV / offroad,4/5 doors,5,Diesel,Manual,4x2,120 kW,2 231 cc,167,Euro 5,123 500 km,6/2015,Used
+Seat,Leon,3 049 €,None,Interior color,Other interior material,Compact,4/5 doors,5,1249,Petrol,Manual,4x2,92 kW,1 390 cc,149,Euro 4,158 500 km,6/2009,Used
+Opel,Crossland X,15 899 €,Orange,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Diesel,Manual,4x2,88 kW,15 600 cc,103,Euro 6,69 000 km,8/2017,2
+Kia,XCeed,24 649 €,Silver,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Petrol,Manual,4x2,103 kW,13 534 cc,134,Euro 6d-TEMP,19 500 km,10/2020,Used
+Renault,Clio,15 099 €,Grey,Interior color,Other interior material,Compact,4/5 doors,1090,None,Diesel,Manual,4x2,66 kW,14 641 cc,135,Euro 6,13 884 km,11/2019,Used
+Mercedes-Benz,E 350,10 899 €,Black,Type of finish,Beige interior,Full leather interior,Station Wagon,4/5 doors,5,Petrol,Automatic,4x4,200 kW,3 498 cc,261,Euro 4,163 000 km,1/2009,2
+Fiat,Grande Punto,2 699 €,Blue,Interior color,Other interior material,Sedans / saloons,4/5 doors,5,None,Petrol,Manual,4x2,48 kW,1 242 cc,139,Euro 4,146 000 km,5/2009,2
+Audi,S3,36 199 €,Yellow,Type of finish,Black interior,Part leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x4,228 kW,1 984 cc,169,Euro 6d,14 470 km,3/2021,1
+Volkswagen,T-Roc,30 999 €,White,Interior color,Cloth interior,SUV / offroad,4/5 doors,5,None,Petrol,Manual,4x2,110 kW,14 980 cc,149,Euro 6,7 866 km,5/2022,Demonstration car
+Chevrolet,Matiz,3 099 €,Other interior color,Interior material,Compact,4/5 doors,5,850,None,Petrol,Manual,4x2,38 kW,796 cc,127,Euro 4,56 157 km,8/2009,Used
+Opel,Insignia,8 399 €,Black,Type of finish,Brown interior,Full leather interior,Station Wagon,4/5 doors,5,Petrol,Manual,4x4,221 kW,1 998 cc,219,Euro 5,135 000 km,4/2009,4
+Opel,Astra,4 699 €,Grey,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,5,Petrol,Manual,4x2,85 kW,1 598 cc,158,Euro 4,134 802 km,3/2009,2
+Ford,Fiesta,3 849 €,Silver,Type of finish,Grey interior,Cloth interior,Compact,4/5 doors,5,Petrol,Manual,4x2,60 kW,1 242 cc,133,Euro 5,120 160 km,3/2009,2
+Volkswagen,Caddy,22 649 €,Blue,Type of finish,Black interior,Cloth interior,Cargo VAN,4/5 doors,2,Diesel,Automatic,4x4,110 kW,1 968 cc,144,Euro 6,53 952 km,6/2019,Used
+Dodge,Charger,41 899 €,Green,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x2,362 kW,6 417 cc,333,Euro 6,31 200 km,8/2019,2
+Dodge,RAM,47 099 €,Blue,Interior color,Alcantara interior,Pick-up,4/5 doors,5,None,Petrol,Automatic,4x4,295 kW,5 654 cc,298,Euro 6,7 600 km,3/2021,1
+Opel,Antara,7 099 €,Black,Type of finish,Other interior color,Cloth interior,SUV / offroad,4/5 doors,5,Diesel,Manual,4x2,120 kW,2 231 cc,167,Euro 5,123 500 km,6/2015,Used
+Dodge,Charger,33 599 €,Black,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x2,276 kW,5 654 cc,333,Euro 6,45 323 km,7/2019,09/2024
+Dodge,Charger,43 949 €,Black,Interior color,Alcantara interior,Sedans / saloons,4/5 doors,5,None,Petrol,Automatic,4x2,362 kW,6 424 cc,333,Euro 6,27 800 km,6/2020,2
+BMW,120,34 499 €,Black,Interior color,Part leather interior,Sedans / saloons,4/5 doors,5,1525,Diesel,Automatic,4x2,140 kW,1 995 cc,112,Euro 6d-TEMP,18 000 km,5/2021,Used
+Dodge,Charger,41 899 €,Grey,Interior color,Full leather interior,Sedans / saloons,4/5 doors,5,None,Petrol,Automatic,4x2,362 kW,6 424 cc,333,Euro 6,26 800 km,8/2019,2
+Mercedes-Benz,E 63 AMG,51 749 €,Brown,Type of finish,Black interior,Full leather interior,Station Wagon,4/5 doors,7,Petrol,Automatic,4x4,430 kW,5 461 cc,249,Euro 6,35 000 km,5/2015,2
+Renault,Talisman,19 299 €,Grey,Type of finish,Other interior color,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x2,147 kW,1 997 cc,130,Euro 6,51 617 km,5/2019,Used
+Dacia,Sandero,2 899 €,Blue,Interior color,Cloth interior,Compact,4/5 doors,5,None,Petrol,Manual,4x2,55 kW,1 390 cc,166,Euro 4,124 225 km,3/2009,2
+BMW,535 Gran Turismo,15 299 €,Black,Type of finish,Beige interior,Full leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x2,225 kW,2 979 cc,211,Euro 5,150 000 km,1/2010,01/2022
+Mitsubishi,Outlander,8 299 €,Grey,Type of finish,Black interior,Other interior material,SUV / offroad,4/5 doors,5,Diesel,Manual,4x4,130 kW,2 268 cc,167,Euro 5,123 000 km,1/2012,2
+Volkswagen,T-Cross,18 849 €,Yellow,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Diesel,Manual,4x4,70 kW,1 598 cc,107,Euro 6,1 598 km,12/2020,1
+Audi,Q3,30 149 €,Black,Type of finish,Black interior,Part leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,110 kW,1 968 cc,137,Euro 6,32 090 km,7/2021,1
+Peugeot,308,4 899 €,Grey,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Petrol,Manual,4x2,115 kW,1 598 cc,165,Euro 5,175 000 km,4/2012,3
+MG,ZS,31 049 €,Black,Interior color,Full leather interior,SUV / offroad,4/5 doors,5,None,Electric,Automatic,4x2,130 kW,2 497 cc,No emission class,50,5 500 km,5/2022,05/2025
+Cupra,Ateca,35 849 €,Grey,Type of finish,Black interior,Alcantara interior,Compact,4/5 doors,5,Petrol,Automatic,4x4,221 kW,1 984 cc,168,Euro 6d-TEMP,22 611 km,9/2020,1
+Audi,Q5,51 849 €,Black,Interior color,Other interior material,Coupe,4/5 doors,5,2150,Other fuel type,Automatic,4x4,220 kW,1 984 cc,35,Euro 6,13 091 km,9/2021,Used
+Volvo,V60,11 399 €,Silver,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x4,169 kW,2 400 cc,169,Euro 5,137 000 km,4/2012,2
+BMW,220,22 449 €,Silver,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,None,Diesel,Automatic,4x4,140 kW,1 995 cc,121,Euro 6,85 700 km,11/2019,Used
+MG,ZS,31 049 €,Blue,Interior color,Full leather interior,SUV / offroad,4/5 doors,5,None,Electric,Automatic,4x2,130 kW,2 497 cc,No emission class,50,3 000 km,4/2022,05/2025
+BMW,220,22 349 €,Silver,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,None,Diesel,Automatic,4x2,140 kW,1 995 cc,121,Euro 6,79 900 km,9/2019,Used
+Opel,Movano,16 849 €,White,Type of finish,Black interior,Cloth interior,Other car styles,4/5 doors,3,Diesel,Manual,4x2,96 kW,2 298 cc,232,No emission class,86 750 km,3/2019,Used
+Cupra,Formentor,35 249 €,Red,Interior color,Other interior material,SUV / offroad,4/5 doors,5,1644,Petrol,Automatic,4x4,228 kW,1 984 cc,168,No emission class,4 000 km,6/2022,Spain
+BMW,220,22 449 €,Silver,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,None,Diesel,Automatic,4x2,140 kW,1 995 cc,121,Euro 6,79 988 km,11/2019,Used
+Mercedes-Benz,A 220,29 899 €,Grey,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 950 cc,116,Euro 6d-TEMP,33 887 km,11/2019,Used
+Dodge,Charger,34 599 €,Black,Interior color,Alcantara interior,Sedans / saloons,4/5 doors,5,None,Petrol,Automatic,4x2,280 kW,5 654 cc,333,Euro 6d-TEMP,38 500 km,5/2019,Used
+Audi,SQ5,56 399 €,Black,Type of finish,Black interior,Part leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,255 kW,2 967 cc,180,Euro 6d-TEMP,26 223 km,5/2020,Used
+Ford,Fusion,5 299 €,Black,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,5,Petrol,Manual,4x2,59 kW,1 388 cc,154,Euro 4,85 000 km,10/2009,2
+Nissan,Qashqai,16 749 €,Grey,Interior color,Other interior material,SUV / offroad,4/5 doors,5,1416,Petrol,Automatic,4x2,116 kW,1 332 cc,122,No emission class,4 700 km,6/2021,Spain
+BMW,220,23 499 €,Silver,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,None,Diesel,Automatic,4x2,140 kW,1 995 cc,121,Euro 6,69 988 km,9/2019,Used
+Mercedes-Benz,CLA 220,35 599 €,Silver,Type of finish,Black interior,Part leather interior,Coupe,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 950 cc,120,Euro 6,21 642 km,2/2021,Used
+Mercedes-Benz,CLA 35 AMG Shooting Brake,48 899 €,Red,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Petrol,Automatic,4x4,225 kW,1 991 cc,171,Euro 6d,12 200 km,10/2021,1
+Ford,Kuga,8 349 €,White,Interior color,Cloth interior,SUV / offroad,4/5 doors,5,None,Diesel,Manual,4x4,100 kW,1 997 cc,170,Euro 4,117 650 km,9/2009,05/2023
+MG,ZS,30 999 €,Blue,Interior color,Cloth interior,SUV / offroad,4/5 doors,5,None,Electric,Automatic,4x2,130 kW,2 497 cc,No emission class,51,3 120 km,6/2022,Used
+BMW,220,26 249 €,Grey,Type of finish,Black interior,Cloth interior,MPV/VAN,4/5 doors,5,Diesel,Automatic,4x4,140 kW,1 995 cc,126,Euro 6d-TEMP,34 200 km,10/2019,Used
+Tesla,Model 3,49 999 €,White,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Electric,Automatic,4x4,377 kW,Euro 6d-TEMP,79,No,47 500 km,3/2019,1
+Alfa Romeo,Giulietta,9 399 €,Black,Type of finish,Black interior,Part leather interior,Compact,4/5 doors,5,Petrol,Manual,4x2,173 kW,1 742 cc,180,Euro 5,140 426 km,1/2013,Used
+BMW,440,42 549 €,Black,Type of finish,Grey interior,Alcantara interior,Coupe,4/5 doors,5,Petrol,Automatic,4x2,240 kW,2 998 cc,165,Euro 6,56 000 km,4/2019,Used
+Dodge,Challenger,48 149 €,Grey,Type of finish,Other interior color,Part leather interior,Coupe,4/5 doors,5,Petrol,Automatic,4x2,362 kW,6 417 cc,333,Euro 6,19 207 km,7/2019,10/2024
+Mercedes-Benz,A 220,37 299 €,Black,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 950 cc,116,Euro 6d-TEMP,15 240 km,4/2021,Used
+Dodge,RAM,40 549 €,Black,Type of finish,Grey interior,Cloth interior,Pick-up,4/5 doors,5,LPG,Automatic,4x4,295 kW,5 654 cc,298,Euro 6,90 000 km,5/2019,2
+BMW,X1,33 549 €,Black,Interior color,Other interior material,SUV / offroad,4/5 doors,5,1615,Diesel,Automatic,4x2,110 kW,1 995 cc,114,Euro 6,36 409 km,1/2021,Used
+Jeep,Renegade,26 149 €,Other interior color,Interior material,SUV / offroad,4/5 doors,5,1430,None,Diesel,Manual,4x2,96 kW,1 598 cc,118,No emission class,28 415 km,8/2021,Used
+Audi,Q5,60 549 €,Blue,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,210 kW,2 967 cc,176,Euro 6d,15 km,7/2022,New
+Fiat,Punto,5 399 €,Red,Interior color,Cloth interior,Compact,4/5 doors,5,None,Petrol,Manual,4x2,99 kW,1 368 cc,129,Euro 5,145 000 km,10/2012,1
+Audi,RS3,51 249 €,Blue,Interior color,Full leather interior,Station Wagon,4/5 doors,1605,None,Petrol,Automatic,4x4,294 kW,2 480 cc,194,Euro 6d-TEMP,4 000 km,9/2020,Used
+Mercedes-Benz,GLB 220,44 349 €,Red,Type of finish,Black interior,Part leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 950 cc,128,Euro 6d-TEMP,18 468 km,6/2021,Used
+BMW,330,60 649 €,Grey,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x4,210 kW,2 993 cc,138,No emission class,0 km,7/2022,New
+Mercedes-Benz,GLB 220,40 599 €,White,Type of finish,Black interior,Part leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,140 kW,1 950 cc,114,Euro 6d-TEMP,38 000 km,11/2020,Used
+Audi,SQ5,57 449 €,Black,Type of finish,Black interior,Part leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,255 kW,2 967 cc,180,Euro 6d-TEMP,26 223 km,5/2020,Used
+BMW,220,24 449 €,Grey,Type of finish,Black interior,Full leather interior,MPV/VAN,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 995 cc,117,Euro 6d,47 600 km,11/2019,Used
+Mercedes-Benz,C 300,42 049 €,Grey,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,180 kW,1 950 cc,127,Euro 6d-TEMP,12 070 km,2/2021,Used
+Volkswagen,T5 Transporter,15 449 €,White,Type of finish,Grey interior,Full leather interior,MPV/VAN,4/5 doors,9+,Diesel,Automatic,4x2,100 kW,1 968 cc,213,Euro 5,155 255 km,7/2015,1
+Dodge,Charger,28 399 €,White,Interior color,Cloth interior,Coupe,4/5 doors,4,None,Petrol,Automatic,4x2,276 kW,5 654 cc,333,Euro 6,66 258 km,7/2018,2
+Nissan,Navara,43 149 €,Grey,Type of finish,Grey interior,Full leather interior,Other car styles,4/5 doors,5,Diesel,Automatic,4x4,140 kW,2 298 cc,194,Euro 6d-TEMP,19 000 km,1/2022,Used
+Renault,Master,23 699 €,Grey,Type of finish,Other interior color,Cloth interior,Other car styles,4/5 doors,3,Diesel,Manual,4x2,110 kW,2 299 cc,154,Euro 6d,46 400 km,8/2022,Used
+Volkswagen,Amarok,15 299 €,Grey,Type of finish,Grey interior,Cloth interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,132 kW,1 968 cc,211,Euro 5,133 500 km,9/2012,1
+BMW,440,38 399 €,Black,Interior color,Full leather interior,Coupe,4/5 doors,5,1695,Petrol,Automatic,4x2,240 kW,2 993 cc,165,Euro 6d-TEMP,43 940 km,5/2019,Used
+Audi,A5,44 349 €,Black,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x2,150 kW,1 968 cc,119,Euro 6d,4 882 km,3/2022,1
+BMW,740,54 199 €,Black,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x2,240 kW,2 998 cc,153,Euro 6,28 536 km,1/2019,1
+BMW,M340i,53 099 €,Black,Type of finish,Black interior,Full leather interior,Station Wagon,4/5 doors,5,Petrol,Automatic,4x4,275 kW,2 998 cc,157,Euro 6,29 455 km,6/2021,1
+Toyota,Hilux,35 549 €,Silver,Interior color,Other interior material,SUV / offroad,4/5 doors,5,None,Diesel,Automatic,4x2,108 kW,2 400 cc,259,Euro 1,50 km,7/2022,New
+Nissan,Navara,21 099 €,White,Interior color,Cloth interior,Pick-up,4/5 doors,5,None,Diesel,Manual,4x4,140 kW,2 298 cc,167,Euro 5,74 545 km,7/2016,12/2022
+Tesla,Model 3,40 799 €,White,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Electric,Automatic,4x2,239 kW,Euro 6d-TEMP,53,No,18 927 km,9/2020,1
+BMW,M340i,50 999 €,White,Interior color,Alcantara interior,Station Wagon,4/5 doors,5,None,Petrol,Automatic,4x4,275 kW,2 998 cc,160,Euro 6d,46 176 km,1/2021,2
+DFSK,Seres 3,32 049 €,Black,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Electric,Automatic,4x2,120 kW,No emission class,54,No,5 000 km,6/2022,Demonstration car
+Audi,A1,21 849 €,Black,Type of finish,Brown interior,Cloth interior,Compact,4/5 doors,5,Petrol,Manual,4x2,81 kW,999 cc,124,Euro 6d,6 395 km,7/2021,Used
+Dodge,RAM,58 399 €,Black,Interior color,Cloth interior,Pick-up,4/5 doors,5,None,Petrol,Automatic,4x4,295 kW,5 700 cc,317,Euro 6,0 km,6/2022,New
+Dodge,Charger,39 799 €,Grey,Type of finish,Other interior color,Full leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x2,362 kW,6 417 cc,333,Euro 6,58 000 km,8/2018,2
+Jeep,Grand Cherokee,39 449 €,White,Interior color,Velour interior,SUV / offroad,4/5 doors,5,None,Diesel,Automatic,4x4,184 kW,2 987 cc,208,Euro 6,43 243 km,7/2020,Used
+SsangYong,MUSSO,32 599 €,Green,Type of finish,Grey interior,Cloth interior,SUV / offroad,4/5 doors,5,Diesel,Manual,4x4,149 kW,2 157 cc,221,Euro 6d-TEMP,3 000 km,8/2022,1
+Mercedes-Benz,A 220,35 149 €,Black,Interior color,Part leather interior,Sedans / saloons,4/5 doors,5,1520,Diesel,Automatic,4x2,140 kW,1 950 cc,114,Euro 6d,8 000 km,3/2022,Demonstration car
+Audi,Q3,43 649 €,Orange,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Hybrid,Automatic,4x2,110 kW,1 498 cc,133,Euro 6d,10 km,6/2022,New
+Citroen,C3 Aircross,15 799 €,White,Interior color,Other interior material,SUV / offroad,4/5 doors,5,1203,Diesel,Manual,4x2,75 kW,1 499 cc,105,No emission class,25 081 km,4/2019,Used
+Honda,Jazz,6 899 €,Red,Interior color,Cloth interior,Sedans / saloons,4/5 doors,5,None,Petrol,Manual,4x2,66 kW,1 198 cc,126,Euro 5,75 200 km,2/2014,1
+SsangYong,Korando,10 699 €,Green,Type of finish,Grey interior,Cloth interior,SUV / offroad,4/5 doors,5,Petrol,Manual,4x2,110 kW,1 998 cc,175,No emission class,92 400 km,6/2017,1
+BMW,118,26 349 €,White,Interior color,Cloth interior,Sedans / saloons,4/5 doors,5,None,Diesel,Manual,4x2,110 kW,1 995 cc,115,Euro 6,18 290 km,6/2021,1
+Opel,Karl,7 699 €,Blue,Type of finish,Black interior,Cloth interior,Compact,4/5 doors,5,Petrol,Manual,4x2,54 kW,999 cc,118,Euro 6d-TEMP,43 700 km,9/2018,Used
+Dodge,Charger,29 399 €,Black,Interior color,Cloth interior,Sedans / saloons,4/5 doors,5,None,Petrol,Automatic,4x2,276 kW,5 654 cc,333,Euro 6,75 000 km,7/2016,2
+Audi,SQ2,45 699 €,White,Interior color,Cloth interior,SUV / offroad,4/5 doors,5,None,Petrol,Automatic,4x4,221 kW,1 984 cc,176,Euro 6d,1 100 km,2/2022,1
+BMW,540,59 299 €,Black,Type of finish,Black interior,Full leather interior,Station Wagon,4/5 doors,5,Petrol,Automatic,4x4,245 kW,2 998 cc,195,Euro 6d,19 469 km,7/2021,1
+BMW,M3,59 549 €,Black,Type of finish,Other interior color,Alcantara interior,Station Wagon,4/5 doors,5,Petrol,Automatic,4x4,275 kW,2 998 cc,143,Euro 6,19 017 km,7/2020,Used
+Jeep,Grand Cherokee,14 799 €,Black,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,184 kW,2 987 cc,199,Euro 4,145 000 km,11/2013,Used
+Suzuki,SX4 S-Cross,10 799 €,Blue,Type of finish,Black interior,Full leather interior,Compact,4/5 doors,5,Petrol,Manual,4x4,88 kW,1 586 cc,130,Euro 6,144 000 km,4/2015,Used
+Nissan,Primastar,23 199 €,Grey,Type of finish,Other interior color,Cloth interior,Other car styles,4/5 doors,3,Diesel,Manual,4x2,96 kW,1 997 cc,200,Euro 6d-TEMP,7 245 km,3/2022,Demonstration car
+Tesla,Model Y,62 649 €,Black,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Electric,Automatic,4x4,378 kW,No emission class,79,No,14 700 km,2/2022,1
+Audi,A6,42 099 €,Black,Type of finish,Black interior,Cloth interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,150 kW,1 968 cc,122,Euro 6d-TEMP,15 500 km,4/2021,Used
+Mercedes-Benz,A 220,29 899 €,Grey,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 950 cc,116,Euro 6d-TEMP,41 730 km,10/2019,Used
+Mercedes-Benz,A 250,36 199 €,Black,Interior color,Cloth interior,Compact,4/5 doors,5,None,Hybrid,Manual,4x2,118 kW,1 332 cc,149,Euro 6d-TEMP,5 863 km,1/2022,1
+MG,ZS,30 999 €,Blue,Interior color,Cloth interior,SUV / offroad,4/5 doors,5,None,Electric,Automatic,4x2,130 kW,2 497 cc,No emission class,51,3 156 km,6/2022,Used
+BMW,330,52 049 €,Blue,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x2,210 kW,2 993 cc,140,Euro 6d-TEMP,15 068 km,2/2021,2
+Mercedes-Benz,C 43 AMG,68 799 €,Grey,Interior color,Full leather interior,SUV / offroad,4/5 doors,5,1775,Petrol,Automatic,4x4,287 kW,2 996 cc,217,No emission class,22 863 km,1/2021,Used
+BMW,M3,53 749 €,Black,Type of finish,Black interior,Part leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x4,275 kW,2 998 cc,160,Euro 6d-TEMP,59 860 km,9/2019,Used
+Tesla,Model 3,42 749 €,White,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Electric,Automatic,4x2,239 kW,No emission class,55,No,45 000 km,3/2020,1
+Audi,A6,46 849 €,White,Interior color,Cloth interior,Station Wagon,4/5 doors,5,None,Diesel,Automatic,4x4,210 kW,2 967 cc,155,Euro 6,66 890 km,5/2020,2
+Volkswagen,Tiguan Allspace,23 599 €,White,Interior color,Cloth interior,SUV / offroad,4/5 doors,5,None,Diesel,Automatic,4x2,110 kW,1 968 cc,132,Euro 6d-TEMP,124 500 km,4/2019,1
+Audi,A5,44 149 €,Black,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,None,Diesel,Automatic,4x2,150 kW,1 968 cc,119,Euro 6d-TEMP,5 442 km,3/2022,1
+Audi,S3,43 649 €,Blue,Type of finish,Black interior,Part leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x4,228 kW,1 984 cc,171,Euro 6d,11 099 km,10/2020,Used
+Volkswagen,Golf,47 499 €,Grey,Interior color,Other interior material,Compact,4/5 doors,5,None,Hybrid,Automatic,4x2,150 kW,1 395 cc,34,Euro 6d,10 km,7/2022,New
+DS Automobiles,DS9,49 949 €,Blue,Type of finish,Black interior,Alcantara interior,Sedans / saloons,4/5 doors,5,Hybrid,Automatic,4x2,165 kW,1 598 cc,33,Euro 6d,10 km,6/2022,1
+BMW,X3 M40,60 099 €,White,Interior color,Full leather interior,SUV / offroad,4/5 doors,5,None,Diesel,Automatic,4x4,250 kW,2 993 cc,169,Euro 6d,28 875 km,11/2021,1
+Nissan,Qashqai+2,9 399 €,Black,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,7,Petrol,Manual,4x4,104 kW,1 997 cc,204,Euro 5,119 000 km,6/2012,2
+Ford,Kuga,11 499 €,Black,Type of finish,Other interior color,Cloth interior,SUV / offroad,4/5 doors,5,Diesel,Manual,4x4,103 kW,1 997 cc,140,Euro 5,111 450 km,6/2014,1
+BMW,420 Gran Coupé,48 049 €,Black,Type of finish,Black interior,Cloth interior,Coupe,4/5 doors,5,Diesel,Automatic,4x4,140 kW,1 995 cc,150,Euro 6d,2 827 km,1/2022,Used
+Mercedes-Benz,CLA 220,37 349 €,Black,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 950 cc,121,Euro 6d-TEMP,14 941 km,11/2021,Used
+Seat,Tarraco,34 199 €,Black,Type of finish,Other interior color,Velour interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x2,110 kW,1 968 cc,120,Euro 6,25 000 km,5/2021,Used
+Opel,Insignia CT,9 849 €,Grey,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Diesel,Manual,4x4,120 kW,1 956 cc,148,Euro 5,149 500 km,4/2014,3
+Audi,Q3,43 149 €,Red,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Petrol,Automatic,4x4,180 kW,1 984 cc,167,Euro 6d-TEMP,6 800 km,5/2021,Used
+Volkswagen,T-Roc,16 199 €,Yellow,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Petrol,Manual,4x2,110 kW,1 498 cc,123,Euro 6,45 086 km,7/2019,1
+Tesla,Model 3,42 349 €,White,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Electric,Automatic,4x2,208 kW,Euro 6d-TEMP,55,No,11 000 km,9/2021,1
+Volkswagen,T-Roc,20 049 €,Black,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Petrol,Automatic,4x2,110 kW,1 498 cc,119,Euro 6,7 396 km,2/2021,1
+Cupra,Leon,30 399 €,Red,Interior color,Alcantara interior,Station Wagon,4/5 doors,5,None,Petrol,Automatic,4x4,221 kW,1 984 cc,161,Euro 6d-TEMP,26 550 km,8/2020,1
+BMW,220,25 299 €,Silver,Type of finish,Black interior,Cloth interior,MPV/VAN,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 995 cc,121,Euro 6d-TEMP,35 700 km,7/2019,Used
+Jaguar,XE,28 999 €,Other interior color,Interior material,Sedans / saloons,4/5 doors,5,1615,None,Diesel,Automatic,4x4,132 kW,1 999 cc,144,No emission class,32 966 km,8/2019,Used
+Cadillac,XT4,38 949 €,Black,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x2,128 kW,1 995 cc,180,Euro 6d,1 000 km,1/2022,Used
+Mercedes-Benz,GLC 400,54 699 €,Black,Interior color,Part leather interior,SUV / offroad,4/5 doors,5,1910,Diesel,Automatic,4x4,243 kW,2 925 cc,187,Euro 6d,37 731 km,7/2020,Used
+Mercedes-Benz,A 220,33 599 €,Yellow,Interior color,Full leather interior,Sedans / saloons,4/5 doors,5,None,Diesel,Automatic,4x2,140 kW,1 950 cc,116,Euro 6d,18 879 km,6/2021,Demonstration car
+MINI,Cooper S Countryman,9 449 €,Silver,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,4,Petrol,Manual,4x4,135 kW,1 598 cc,157,Euro 5,132 985 km,10/2011,1
+Fiat,Talento,30 949 €,Black,Type of finish,Grey interior,Cloth interior,4/5 doors,3,None,Diesel,Automatic,4x2,107 kW,1 997 cc,193,Euro 6,8 745 km,9/2021,Used
+Mercedes-Benz,A 250,36 199 €,Yellow,Interior color,Full leather interior,Compact,4/5 doors,5,None,Petrol,Automatic,4x4,165 kW,1 991 cc,146,Euro 6d,35 500 km,7/2021,1
+Audi,A4 Allroad,48 449 €,Black,Type of finish,Black interior,Cloth interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x4,210 kW,2 967 cc,160,Euro 6,27 899 km,7/2020,1
+Tesla,Model 3,53 299 €,White,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Electric,Automatic,4x4,324 kW,No emission class,79,No,100 km,12/2021,1
+BMW,X3 M40,55 299 €,Black,Type of finish,Other interior color,Full leather interior,SUV / offroad,4/5 doors,5,Petrol,Automatic,4x4,285 kW,2 998 cc,164,Euro 6,1 811 km,7/2020,07/2024
+Jaguar,XF,26 249 €,Black,Interior color,Cloth interior,Sedans / saloons,4/5 doors,5,1715,Petrol,Automatic,4x4,221 kW,1 997 cc,163,No emission class,30 654 km,10/2018,Used
+Mercedes-Benz,E 220,35 249 €,Blue,Type of finish,Black interior,Other interior material,Station Wagon,4/5 doors,5,Diesel,Automatic,4x4,143 kW,1 950 cc,138,Euro 6d-TEMP,70 000 km,7/2019,1
+BMW,X3 M40,53 149 €,Black,Type of finish,Brown interior,Full leather interior,SUV / offroad,4/5 doors,5,Petrol,Automatic,4x4,265 kW,2 998 cc,188,Euro 6d-TEMP,31 600 km,2/2020,2
+Mitsubishi,Outlander,8 899 €,Brown,Type of finish,Black interior,Part leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,115 kW,2 179 cc,186,Euro 5,168 000 km,9/2012,2
+Dacia,Duster,8 399 €,White,Interior color,Cloth interior,SUV / offroad,4/5 doors,5,None,Petrol,Manual,4x2,84 kW,1 598 cc,145,Euro 6,59 000 km,11/2015,2
+BMW,220,25 749 €,Blue,Type of finish,Black interior,Cloth interior,MPV/VAN,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 995 cc,117,Euro 6d-TEMP,23 600 km,9/2019,Used
+Audi,Q3,38 249 €,Blue,Interior color,Part leather interior,SUV / offroad,4/5 doors,5,1735,Diesel,Automatic,4x4,110 kW,1 968 cc,144,Euro 6,27 246 km,10/2021,Used
+Mercedes-Benz,CLA 220,38 349 €,Grey,Type of finish,Black interior,Other interior material,Coupe,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 950 cc,121,Euro 6d,26 312 km,11/2021,Used
+Audi,A7,33 099 €,Grey,Type of finish,Grey interior,Alcantara interior,Sedans / saloons,4/5 doors,4,Diesel,Automatic,4x4,140 kW,2 967 cc,138,Euro 6,49 856 km,6/2017,1
+Mercedes-Benz,C 300,48 699 €,White,Interior color,Part leather interior,Station Wagon,4/5 doors,5,None,Diesel,Automatic,4x2,195 kW,1 993 cc,134,Euro 6,8 313 km,10/2021,1
+DS Automobiles,DS7 Crossback,42 649 €,Black,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Hybrid,Automatic,4x2,166 kW,1 598 cc,36,Euro 6d,19 349 km,4/2022,Demonstration car
+Kia,Venga,4 399 €,Grey,Type of finish,Other interior color,Cloth interior,Sedans / saloons,4/5 doors,5,Petrol,Manual,4x2,66 kW,1 396 cc,140,Euro 5,85 850 km,1/2011,1
+Porsche,Cayenne,19 249 €,Grey,Type of finish,Black interior,Alcantara interior,SUV / offroad,4/5 doors,5,Petrol,Automatic,4x4,368 kW,4 806 cc,353,Euro 4,137 600 km,4/2009,03/2023
+Cupra,Leon,29 849 €,Red,Interior color,Alcantara interior,Station Wagon,4/5 doors,5,None,Petrol,Automatic,4x4,221 kW,1 984 cc,189,Euro 6,21 000 km,6/2020,1
+Dodge,RAM,57 999 €,White,Interior color,Cloth interior,Pick-up,4/5 doors,6,None,Petrol,Automatic,4x4,295 kW,5 654 cc,317,Euro 6,10 602 km,2/2022,Used
+Seat,Tarraco,25 199 €,Grey,Interior color,Cloth interior,SUV / offroad,4/5 doors,5,1728,Diesel,Automatic,4x2,110 kW,1 968 cc,120,Euro 6d-TEMP,65 400 km,5/2021,Used
+BMW,330,33 649 €,Black,Interior color,Cloth interior,Station Wagon,4/5 doors,5,None,Petrol,Automatic,4x2,190 kW,1 998 cc,134,Euro 6d-TEMP,89 499 km,2/2020,1
+BMW,540,43 649 €,Grey,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x4,235 kW,2 993 cc,145,Euro 6,78 173 km,1/2020,1
+Volkswagen,T-Roc,26 349 €,White,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,None,Diesel,Automatic,4x2,110 kW,1 968 cc,111,Euro 6,26 368 km,6/2021,1
+BMW,750,60 599 €,Black,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x4,294 kW,2 993 cc,166,Euro 6,93 808 km,3/2019,2
+Citroen,C3,4 399 €,Grey,Type of finish,Other interior color,Other interior material,Compact,4/5 doors,5,Petrol,Manual,4x2,54 kW,1 360 cc,150,No emission class,112 052 km,9/2009,2
+Citroen,C3 Aircross,11 849 €,Grey,Interior color,Other interior material,SUV / offroad,4/5 doors,5,1159,Petrol,Manual,4x2,81 kW,1 199 cc,110,No emission class,32 515 km,5/2018,Used
+Volkswagen,Tiguan Allspace,46 299 €,Silver,Type of finish,Black interior,Velour interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,147 kW,1 968 cc,171,Euro 6,1 500 km,10/2021,Demonstration car
+Tesla,Model 3,53 299 €,White,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Electric,Automatic,4x4,377 kW,Euro 6d-TEMP,82,No,9 623 km,6/2021,1
+Volvo,V60,31 799 €,White,Interior color,Part leather interior,Station Wagon,4/5 doors,5,None,Petrol,Automatic,4x4,228 kW,1 969 cc,171,Euro 6d-TEMP,47 202 km,2/2019,1
+Audi,Q5,47 599 €,Black,Interior color,Cloth interior,SUV / offroad,4/5 doors,5,None,Diesel,Automatic,4x4,150 kW,1 968 cc,140,Euro 6,17 018 km,9/2021,1
+Mercedes-Benz,GLE 63 AMG,56 449 €,Black,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Petrol,Automatic,4x4,430 kW,5 461 cc,320,Euro 6,135 700 km,9/2017,2
+Land Rover,Range Rover Evoque,27 749 €,White,Interior color,Full leather interior,SUV / offroad,4/5 doors,5,None,Diesel,Automatic,4x4,132 kW,1 999 cc,164,Euro 6,72 213 km,12/2018,1
+Mercedes-Benz,E 350,38 699 €,Black,Interior color,Cloth interior,Sedans / saloons,4/5 doors,5,None,Hybrid,Automatic,4x2,210 kW,1 991 cc,49,Euro 6,35 220 km,4/2018,2
+Fiat,Panda,2 699 €,Yellow,Interior color,Cloth interior,Compact,4/5 doors,4,None,Petrol,Manual,4x2,40 kW,1 108 cc,135,Euro 4,115 000 km,5/2009,1
+Mercedes-Benz,CLA 220 Shooting Brake,37 349 €,Black,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 950 cc,121,Euro 6d-TEMP,14 941 km,11/2021,1
+Mercedes-Benz,GLC 400,59 499 €,Black,Type of finish,Black interior,Part leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,243 kW,2 925 cc,168,Euro 6d-TEMP,17 300 km,4/2020,1
+BMW,220,25 699 €,Silver,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,None,Diesel,Automatic,4x4,140 kW,1 995 cc,121,Euro 6,69 987 km,10/2019,Used
+BMW,M550,52 149 €,Blue,Type of finish,Black interior,Full leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x4,294 kW,2 993 cc,172,Euro 6,67 896 km,5/2019,1
+Audi,Q2,34 249 €,Silver,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x2,85 kW,1 998 cc,107,Euro 6,6 000 km,2/2022,Demonstration car
+BMW,520,52 699 €,Grey,Interior color,Alcantara interior,Station Wagon,4/5 doors,4,None,Diesel,Automatic,4x4,140 kW,1 995 cc,120,Euro 6d-TEMP,7 640 km,11/2021,Used
+BMW,118,20 949 €,Grey,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,5,Diesel,Manual,4x2,110 kW,1 995 cc,115,Euro 6,38 100 km,5/2019,1
+Seat,Tarraco,34 599 €,Grey,Interior color,Velour interior,SUV / offroad,4/5 doors,5,None,Diesel,Automatic,4x2,110 kW,1 968 cc,120,Euro 6,25 000 km,5/2021,Used
+Audi,A5,42 099 €,Blue,Type of finish,Black interior,Alcantara interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x4,170 kW,2 967 cc,143,Euro 6,46 091 km,3/2020,1
+BMW,420,26 099 €,Black,Interior color,Cloth interior,Coupe,4/5 doors,5,None,Petrol,Manual,4x2,135 kW,1 998 cc,155,Euro 6,48 133 km,6/2019,Used
+Audi,A5,41 549 €,White,Type of finish,Other interior color,Other interior material,Station Wagon,4/5 doors,5,Petrol,Automatic,4x2,150 kW,1 984 cc,129,Euro 6d,19 990 km,4/2021,Used
+BMW,118,18 849 €,Blue,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,5,Diesel,Manual,4x2,110 kW,1 995 cc,115,Euro 6,65 810 km,4/2019,Used
+BMW,430 Gran Coupé,32 099 €,Blue,Type of finish,Brown interior,Full leather interior,Coupe,4/5 doors,5,Petrol,Automatic,4x4,185 kW,1 998 cc,151,Euro 6,23 800 km,11/2018,1
+Opel,Movano,18 999 €,White,Interior color,Cloth interior,Other car styles,4/5 doors,3,1999,Diesel,Manual,4x2,125 kW,2 299 cc,189,Euro 6,84 735 km,4/2018,Used
+Dodge,RAM,49 199 €,White,Interior color,Full leather interior,Other car styles,4/5 doors,5,2600,LPG,Automatic,4x4,296 kW,5 654 cc,298,Euro 6,90 664 km,2/2019,Used
+Toyota,Avensis,7 399 €,Grey,Type of finish,Grey interior,Cloth interior,Sedans / saloons,4/5 doors,5,Petrol,Manual,4x2,108 kW,1 998 cc,192,Euro 4,121 000 km,2/2009,1
+BMW,530,35 699 €,Grey,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,5,Hybrid,Automatic,4x2,218 kW,1 998 cc,39,Euro 6,68 557 km,10/2019,1
+BMW,330,47 849 €,Black,Type of finish,Black interior,Full leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,210 kW,2 993 cc,124,Euro 6,28 724 km,6/2021,1
+Audi,Q3,42 549 €,Black,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,147 kW,1 968 cc,136,Euro 6d-TEMP,21 000 km,3/2021,1
+Mercedes-Benz,GLC 400,57 349 €,White,Type of finish,Black interior,Part leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,243 kW,2 925 cc,187,Euro 6d,24 934 km,7/2020,1
+Audi,A4 Allroad,36 749 €,White,Interior color,Cloth interior,Station Wagon,4/5 doors,5,None,Petrol,Automatic,4x4,180 kW,1 984 cc,150,Euro 6,23 700 km,7/2020,1
+Mercedes-Benz,CLA 220,37 149 €,Grey,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 950 cc,140,Euro 6d,41 735 km,2/2021,Used
+SsangYong,Actyon,15 749 €,Black,Type of finish,Other interior color,Cloth interior,Other car styles,4/5 doors,5,Diesel,Automatic,4x4,114 kW,1 998 cc,212,Euro 5,140 546 km,3/2017,1
+Mercedes-Benz,CLA 220,38 899 €,White,Interior color,Part leather interior,Station Wagon,4/5 doors,5,1585,Diesel,Automatic,4x2,140 kW,1 950 cc,114,Euro 6d-TEMP,13 850 km,11/2021,Used
+BMW,330,47 599 €,Blue,Type of finish,Black interior,Full leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,210 kW,2 993 cc,119,Euro 6d-TEMP,31 996 km,7/2021,1
+BMW,X4 M40,44 449 €,White,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Petrol,Automatic,4x4,265 kW,2 998 cc,199,Euro 6,27 500 km,6/2018,1
+BMW,118,19 949 €,Blue,Type of finish,Other interior color,Cloth interior,Sedans / saloons,4/5 doors,5,Diesel,Manual,4x2,110 kW,1 995 cc,115,Euro 6,57 700 km,5/2019,Used
+Audi,A6,51 049 €,Black,Type of finish,Black interior,Full leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,150 kW,1 968 cc,152,Euro 6d-TEMP,17 849 km,7/2021,1
+BMW,X3 M40,61 599 €,White,Interior color,Full leather interior,SUV / offroad,4/5 doors,5,None,Diesel,Automatic,4x4,250 kW,2 993 cc,186,Euro 6d,28 367 km,11/2021,1
+Mercedes-Benz,E 400,40 949 €,Black,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x4,250 kW,2 925 cc,191,Euro 6d-TEMP,80 980 km,4/2019,1
+Kia,Picanto,3 599 €,Silver,Type of finish,Grey interior,Part leather interior,Compact,4/5 doors,5,Petrol,Manual,4x2,46 kW,999 cc,102,Euro 5,119 113 km,10/2009,06/2023
+BMW,750,49 899 €,Grey,Type of finish,Other interior color,Full leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x2,330 kW,4 395 cc,184,Euro 6,49 338 km,11/2018,2
+Dodge,RAM,66 999 €,Black,Type of finish,Grey interior,Cloth interior,Other car styles,4/5 doors,5,LPG,Automatic,4x4,295 kW,5 654 cc,298,No emission class,308 km,2/2022,Used
+Nissan,Juke,10 899 €,Silver,Type of finish,Black interior,Cloth interior,Compact,4/5 doors,5,Diesel,Manual,4x2,81 kW,1 461 cc,104,Euro 5,24 423 km,9/2014,Used
+Hyundai,i10,2 899 €,Silver,Type of finish,Other interior color,Other interior material,Sedans / saloons,4/5 doors,5,Petrol,Manual,4x2,57 kW,1 248 cc,119,Euro 4,140 000 km,6/2009,09/2022
+Skoda,Superb,22 099 €,Black,Type of finish,Black interior,Cloth interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x4,140 kW,1 968 cc,136,Euro 6d-TEMP,127 366 km,10/2018,1
+Audi,A4 Allroad,52 149 €,White,Interior color,Alcantara interior,Sedans / saloons,4/5 doors,5,None,Diesel,Automatic,4x4,210 kW,2 967 cc,167,Euro 6d-TEMP,38 800 km,4/2020,1
+BMW,220,38 899 €,Blue,Type of finish,Black interior,Full leather interior,Coupe,4/5 doors,5,Diesel,Automatic,4x4,140 kW,1 995 cc,119,Euro 6,21 125 km,4/2021,Used
+BMW,420 Gran Coupé,27 599 €,Black,Interior color,Cloth interior,Coupe,4/5 doors,5,None,Diesel,Automatic,4x2,140 kW,1 995 cc,126,Euro 6,67 874 km,4/2019,Used
+Dodge,Challenger,33 049 €,Grey,Type of finish,Black interior,Full leather interior,Coupe,4/5 doors,5,Petrol,Automatic,4x2,277 kW,5 654 cc,333,Euro 6,46 488 km,7/2018,09/2024
+Renault,Koleos,8 149 €,Grey,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,110 kW,1 995 cc,209,Euro 5,165 000 km,8/2012,4
+Mercedes-Benz,CLA 220 Shooting Brake,22 549 €,Brown,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,125 kW,2 143 cc,142,Euro 6,149 000 km,1/2019,1
+Alfa Romeo,Stelvio,45 649 €,Blue,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,154 kW,2 143 cc,144,Euro 6d-TEMP,2 490 km,7/2021,Used
+Audi,SQ2,48 799 €,White,Interior color,Part leather interior,SUV / offroad,4/5 doors,5,None,Petrol,Automatic,4x4,221 kW,1 984 cc,176,Euro 6d-TEMP,8 800 km,3/2022,Demonstration car
+Mercedes-Benz,C 300,48 249 €,White,Interior color,Cloth interior,Station Wagon,4/5 doors,5,None,Diesel,Automatic,4x2,195 kW,1 993 cc,137,Euro 6d-TEMP,13 000 km,1/2022,Demonstration car
+BMW,X3,47 799 €,White,Type of finish,Black interior,Part leather interior,SUV / offroad,4/5 doors,None,Diesel,Automatic,4x4,140 kW,1 995 cc,126,Euro 6,9 076 km,4/2021,1
+Mercedes-Benz,E 220,40 249 €,Black,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x2,143 kW,1 950 cc,119,Euro 6d-TEMP,23 000 km,7/2020,1
+Audi,Q2,23 049 €,White,Interior color,Cloth interior,SUV / offroad,4/5 doors,5,1300,Petrol,Manual,4x2,85 kW,999 cc,140,Euro 6,10 500 km,8/2021,Used
+BMW,740,48 999 €,Black,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x2,240 kW,2 998 cc,164,Euro 6,55 512 km,1/2019,1
+BMW,X2,32 049 €,Black,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Diesel,Manual,4x4,110 kW,1 995 cc,144,Euro 6d,10 601 km,5/2021,1
+Cupra,Ateca,34 199 €,Red,Type of finish,Black interior,Part leather interior,SUV / offroad,4/5 doors,5,Petrol,Automatic,4x4,221 kW,1 984 cc,168,Euro 6d-TEMP,18 156 km,4/2020,1
+Mercedes-Benz,A 220,31 199 €,White,Interior color,Part leather interior,Sedans / saloons,4/5 doors,5,None,Petrol,Automatic,4x4,140 kW,1 991 cc,148,Euro 6d-TEMP,50 668 km,1/2019,1
+Tesla,Model Y,63 799 €,Grey,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Electric,Automatic,4x4,254 kW,Euro 6d,75,No,9 000 km,3/2022,1
+Dacia,Sandero,2 799 €,Blue,Interior color,Cloth interior,Compact,4/5 doors,5,None,Petrol,Manual,4x2,55 kW,1 390 cc,161,Euro 4,115 500 km,7/2009,2
+Audi,A4 Allroad,44 649 €,Silver,Type of finish,Black interior,Alcantara interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x4,210 kW,2 967 cc,164,Euro 6d-TEMP,40 000 km,10/2020,2
+Alfa Romeo,Giulia,53 149 €,Black,Type of finish,Black interior,Alcantara interior,Sedans / saloons,4/5 doors,4,Petrol,Manual,4x2,375 kW,2 891 cc,198,Euro 6,31 000 km,3/2017,2
+Mercedes-Benz,E 300,58 549 €,Silver,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,4,Petrol,Automatic,4x2,190 kW,1 999 cc,254,No emission class,5 000 km,5/2021,Demonstration car
+BMW,320,37 249 €,Blue,Type of finish,Black interior,Cloth interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x4,140 kW,1 995 cc,145,Euro 6d-TEMP,13 400 km,3/2020,1
+Audi,A7,61 699 €,Black,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x4,210 kW,2 967 cc,154,Euro 6d,30 922 km,8/2021,Used
+Skoda,Fabia,5 299 €,Black,Type of finish,Black interior,Cloth interior,Station Wagon,4/5 doors,5,Petrol,Manual,4x2,63 kW,1 197 cc,123,Euro 5,117 000 km,7/2011,1
+Tesla,Model Y,64 799 €,White,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Electric,Automatic,4x4,378 kW,Euro 6d-TEMP,77,No,27 000 km,12/2021,1
+Volkswagen,T-Roc,27 499 €,Black,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x2,110 kW,1 968 cc,111,Euro 6d,22 323 km,7/2021,1
+Mercedes-Benz,C 300,39 499 €,White,Interior color,Cloth interior,Station Wagon,4/5 doors,5,None,Diesel,Automatic,4x4,180 kW,1 950 cc,154,Euro 6d-TEMP,22 868 km,12/2020,1
+Volvo,V90,40 499 €,Black,Type of finish,Black interior,Full leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x4,174 kW,1 969 cc,146,No emission class,19 436 km,6/2020,06/2023
+Audi,A7,62 749 €,Blue,Type of finish,Other interior color,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x4,210 kW,2 967 cc,154,Euro 6d-TEMP,24 796 km,7/2021,1
+Ford,Focus,6 899 €,Black,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x2,85 kW,1 997 cc,138,Euro 5,125 000 km,2/2014,04/2023
+Ford,Focus,18 299 €,Blue,Type of finish,Black interior,Cloth interior,Station Wagon,4/5 doors,5,Diesel,Manual,4x2,110 kW,1 995 cc,117,Euro 6d,54 000 km,10/2019,10/2022
+Renault,Master,23 599 €,Blue,Interior color,Cloth interior,Station Wagon,4/5 doors,3,None,Diesel,Manual,4x2,107 kW,2 299 cc,212,Euro 6,40 700 km,7/2019,1
+Volkswagen,Golf,33 149 €,Blue,Type of finish,Black interior,Cloth interior,Station Wagon,4/5 doors,5,Petrol,Automatic,4x4,221 kW,1 984 cc,161,Euro 6d-TEMP,41 925 km,3/2020,1
+Mercedes-Benz,CLA 220,38 199 €,Black,Interior color,Part leather interior,Station Wagon,4/5 doors,5,None,Diesel,Automatic,4x2,140 kW,1 950 cc,114,Euro 6d,16 992 km,2/2021,Used
+Audi,A4 Allroad,44 649 €,Black,Type of finish,Black interior,Alcantara interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x4,210 kW,2 967 cc,164,Euro 6d-TEMP,36 000 km,10/2020,2
+Mercedes-Benz,E 300,47 949 €,Grey,Type of finish,Black interior,Part leather interior,Cabriolet,4/5 doors,4,Diesel,Automatic,4x2,180 kW,1 950 cc,138,Euro 6d-TEMP,75 559 km,12/2019,1
+Audi,SQ2,49 949 €,Grey,Type of finish,Black interior,Part leather interior,SUV / offroad,4/5 doors,5,Petrol,Automatic,4x4,221 kW,2 000 cc,176,No emission class,9 000 km,7/2022,Used
+BMW,220,26 049 €,Grey,Type of finish,Black interior,Cloth interior,MPV/VAN,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 995 cc,121,Euro 6d-TEMP,40 200 km,7/2019,Used
+Audi,A4 Allroad,45 699 €,Black,Type of finish,Black interior,Alcantara interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x4,210 kW,2 967 cc,164,Euro 6d-TEMP,20 441 km,10/2020,2
+Porsche,Panamera,51 199 €,Grey,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,4,Petrol,Automatic,4x4,243 kW,2 995 cc,175,Euro 6,66 123 km,2/2018,1
+Mercedes-Benz,GLC 400,61 649 €,Black,Type of finish,Black interior,Part leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,243 kW,2 925 cc,191,Euro 6d,16 480 km,9/2020,1
+Mazda,CX-7,6 799 €,Black,Interior color,Other interior material,SUV / offroad,4/5 doors,5,None,Diesel,Manual,4x4,127 kW,2 184 cc,199,Euro 5,136 000 km,7/2010,09/2023
+Skoda,Karoq,17 199 €,Grey,Interior color,Other interior material,SUV / offroad,4/5 doors,5,None,Diesel,Manual,4x2,85 kW,1 600 cc,109,No emission class,141 918 km,2/2019,Used
+Volvo,XC40,30 449 €,White,Interior color,Part leather interior,SUV / offroad,4/5 doors,5,None,Diesel,Automatic,4x2,110 kW,19 690 cc,131,Euro 6,104 000 km,10/2018,Used
+Mercedes-Benz,S 63 AMG,60 549 €,Black,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x2,430 kW,5 461 cc,239,No emission class,142 000 km,11/2014,3
+BMW,M3,63 799 €,Black,Type of finish,Black interior,Full leather interior,Station Wagon,4/5 doors,5,Petrol,Automatic,4x4,275 kW,2 998 cc,165,Euro 6,15 746 km,1/2021,Used
+BMW,X3,44 699 €,Blue,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Petrol,Automatic,4x4,135 kW,1 998 cc,153,Euro 6,22 285 km,9/2020,1
+Dodge,Charger,47 099 €,Green,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x2,362 kW,6 417 cc,333,Euro 6,17 000 km,6/2021,1
+Skoda,Fabia,3 799 €,Beige,Type of finish,Black interior,Cloth interior,Station Wagon,4/5 doors,5,Petrol,Manual,4x2,51 kW,1 198 cc,140,Euro 4,107 152 km,7/2009,1
+Mercedes-Benz,GLC 400,55 249 €,Black,Interior color,Part leather interior,SUV / offroad,4/5 doors,5,1910,Diesel,Automatic,4x4,243 kW,2 925 cc,187,Euro 6d,43 234 km,7/2020,Used
+Mercedes-Benz,C 300,58 349 €,Silver,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,195 kW,1 993 cc,139,Euro 6d,5 000 km,4/2022,Demonstration car
+Audi,A7,62 749 €,Blue,Type of finish,Other interior color,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x4,210 kW,2 967 cc,154,Euro 6d-TEMP,29 813 km,8/2021,1
+Mazda,CX-5,14 899 €,Red,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Diesel,Manual,4x2,110 kW,2 191 cc,119,Euro 6,131 265 km,1/2017,Used
+Mercedes-Benz,A 220,31 949 €,White,Interior color,Part leather interior,Sedans / saloons,4/5 doors,5,None,Diesel,Automatic,4x2,140 kW,1 950 cc,114,Euro 6d-TEMP,33 000 km,9/2019,2
+BMW,M3,60 649 €,Black,Type of finish,Black interior,Cloth interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x4,250 kW,2 993 cc,144,Euro 6,34 161 km,7/2021,Used
+Fiat,Grande Punto,4 899 €,Black,Type of finish,Black interior,Cloth interior,Compact,2/3 doors,5,Petrol,Manual,4x2,48 kW,1 242 cc,139,Euro 5,78 391 km,8/2009,2
+MINI,Cooper D Clubman,17 349 €,Black,Type of finish,Black interior,Cloth interior,Station Wagon,4/5 doors,5,Diesel,Manual,4x2,110 kW,1 995 cc,112,Euro 6,43 500 km,11/2018,1
+Audi,A7,63 649 €,Black,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x4,210 kW,2 967 cc,154,Euro 6d,25 440 km,6/2021,1
+Tesla,Model 3,45 299 €,Black,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Electric,Automatic,4x2,208 kW,Euro 6d-TEMP,60,No,9 926 km,2/2022,1
+BMW,340,56 199 €,Blue,Type of finish,Beige interior,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x4,250 kW,2 993 cc,156,Euro 6d,9 603 km,3/2021,1
+BMW,X1,26 749 €,Black,Interior color,Cloth interior,SUV / offroad,4/5 doors,5,None,Diesel,Automatic,4x4,140 kW,1 995 cc,126,Euro 6d-TEMP,49 316 km,3/2019,1
+BMW,M135,45 799 €,Grey,Type of finish,Other interior color,Cloth interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x4,225 kW,2 979 cc,175,Euro 6d,7 200 km,5/2021,1
+Audi,A7,63 649 €,Black,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x4,210 kW,2 967 cc,154,Euro 6d,25 780 km,5/2021,Used
+Audi,A6,38 399 €,Black,Type of finish,Black interior,Cloth interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x4,170 kW,2 967 cc,151,Euro 6d-TEMP,53 284 km,4/2019,1
+Mercedes-Benz,C 300,48 449 €,Blue,Type of finish,Black interior,Cloth interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,195 kW,1 993 cc,137,Euro 6d-TEMP,16 500 km,1/2022,Demonstration car
+BMW,M135,41 499 €,Blue,Type of finish,Black interior,Alcantara interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x4,225 kW,1 998 cc,167,Euro 6d,9 774 km,4/2021,1
+BMW,320,23 399 €,Black,Interior color,Cloth interior,Station Wagon,4/5 doors,5,None,Diesel,Manual,4x2,140 kW,1 995 cc,125,Euro 6c,53 000 km,2/2019,1
+Mercedes-Benz,CLA 220 Shooting Brake,37 149 €,Grey,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 950 cc,140,Euro 6d,41 735 km,2/2021,1
+BMW,220,26 699 €,Silver,Type of finish,Black interior,Cloth interior,MPV/VAN,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 995 cc,121,Euro 6d-TEMP,36 400 km,5/2020,Used
+BMW,340,54 199 €,Black,Type of finish,Black interior,Full leather interior,Station Wagon,4/5 doors,5,Petrol,Automatic,4x4,275 kW,2 998 cc,163,Euro 6,28 429 km,9/2021,Used
+BMW,M340i,57 949 €,Black,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x4,275 kW,2 998 cc,188,Euro 6d,7 705 km,7/2021,Used
+Audi,A7,62 399 €,Black,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x4,210 kW,2 967 cc,150,Euro 6d,29 543 km,5/2021,2
+Mercedes-Benz,GLC 400,63 699 €,Black,Type of finish,Black interior,Part leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,243 kW,2 925 cc,172,Euro 6d,11 545 km,4/2021,Used
+Skoda,Octavia,15 299 €,White,Type of finish,Black interior,Velour interior,Station Wagon,4/5 doors,5,CNG,Automatic,4x2,96 kW,1 498 cc,96,Euro 6,45 103 km,9/2019,Used
+BMW,120,32 799 €,Blue,Type of finish,Grey interior,Cloth interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x4,140 kW,1 995 cc,136,Euro 6d,14 903 km,4/2021,1
+DS Automobiles,DS9,53 249 €,Blue,Type of finish,Grey interior,Cloth interior,Sedans / saloons,4/5 doors,5,Hybrid,Automatic,4x2,165 kW,1 598 cc,37,Euro 6d-TEMP,5 500 km,7/2022,1
+Mercedes-Benz,A 220,32 899 €,Silver,Type of finish,Black interior,Part leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 950 cc,118,Euro 6d-TEMP,26 921 km,6/2019,Used
+Dodge,Charger,47 099 €,Silver,Interior color,Full leather interior,Sedans / saloons,4/5 doors,5,None,Petrol,Automatic,4x2,362 kW,6 424 cc,333,Euro 6,3 700 km,4/2021,1
+Chevrolet,Spark,3 249 €,Green,Type of finish,Grey interior,Cloth interior,Compact,4/5 doors,5,Petrol,Manual,4x2,50 kW,995 cc,119,Euro 5,133 000 km,9/2011,3
+Mercedes-Benz,CLA 220,38 399 €,Grey,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 950 cc,121,Euro 6d-TEMP,21 669 km,10/2021,Used
+BMW,X3 M40,44 599 €,Silver,Type of finish,Black interior,Part leather interior,SUV / offroad,4/5 doors,5,Petrol,Automatic,4x4,260 kW,2 998 cc,206,Euro 6d-TEMP,41 341 km,8/2019,2
+Seat,Arona,17 349 €,Black,Type of finish,Black interior,Cloth interior,MPV/VAN,4/5 doors,5,Other fuel type,Manual,4x2,66 kW,999 cc,103,Euro 6,10 950 km,7/2021,Used
+Audi,Q2,28 249 €,Black,Interior color,Cloth interior,SUV / offroad,4/5 doors,5,None,Petrol,Automatic,4x4,140 kW,1 984 cc,146,Euro 6d-TEMP,42 999 km,3/2020,1
+BMW,320,38 399 €,Black,Interior color,Cloth interior,Station Wagon,4/5 doors,5,None,Diesel,Automatic,4x4,140 kW,1 995 cc,130,Euro 6,27 400 km,9/2021,1
+Audi,A1,24 249 €,Grey,Interior color,Cloth interior,Compact,4/5 doors,5,1200,Petrol,Automatic,4x2,70 kW,999 cc,102,Euro 6d,12 821 km,4/2021,Used
+Seat,Tarraco,23 699 €,Green,Interior color,Other interior material,SUV / offroad,4/5 doors,5,1574,Petrol,Manual,4x2,110 kW,1 498 cc,132,Euro 6,37 849 km,5/2019,Used
+BMW,120,35 949 €,Grey,Type of finish,Other interior color,Part leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 995 cc,112,No emission class,9 000 km,4/2022,Used
+BMW,M3,59 399 €,Grey,Type of finish,Black interior,Full leather interior,Station Wagon,4/5 doors,5,Petrol,Automatic,4x4,275 kW,2 998 cc,163,Euro 6,28 654 km,6/2021,Used
+Opel,Corsa,4 699 €,White,Interior color,Other interior material,Compact,4/5 doors,5,None,Petrol,Automatic,4x2,66 kW,1 364 cc,166,Euro 4,82 000 km,9/2009,11/2022
+BMW,220,15 899 €,Grey,Type of finish,Black interior,Cloth interior,MPV/VAN,4/5 doors,5,Diesel,Manual,4x2,140 kW,1 995 cc,119,Euro 6,91 100 km,10/2016,Used
+Audi,Q5,38 349 €,Silver,Type of finish,Black interior,Other interior material,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,210 kW,2 967 cc,164,Euro 6,50 271 km,8/2018,Used
+Audi,A4 Allroad,49 249 €,Black,Interior color,Other interior material,Station Wagon,4/5 doors,5,1830,Diesel,Automatic,4x4,210 kW,2 967 cc,190,Euro 6d-TEMP,8 413 km,9/2020,Used
+Audi,A6,54 199 €,Beige,Type of finish,Black interior,Part leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x4,250 kW,2 995 cc,164,Euro 6d-TEMP,19 394 km,6/2020,1
+BMW,M340i,54 199 €,Black,Type of finish,Black interior,Full leather interior,Station Wagon,4/5 doors,5,Petrol,Automatic,4x4,275 kW,2 998 cc,163,Euro 6,28 429 km,9/2021,Used
+Subaru,Forester,35 199 €,Green,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Hybrid,Automatic,4x4,110 kW,1 995 cc,154,Euro 6d,5 909 km,5/2022,Demonstration car
+Jeep,Compass,11 899 €,White,Type of finish,Grey interior,Full leather interior,SUV / offroad,4/5 doors,5,Diesel,Manual,4x4,120 kW,2 143 cc,175,Euro 5,164 490 km,6/2014,1
+BMW,220,27 649 €,Blue,Type of finish,Black interior,Cloth interior,MPV/VAN,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 995 cc,121,Euro 6d-TEMP,25 000 km,6/2019,Used
+BMW,730,53 199 €,Black,Type of finish,Other interior color,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x2,195 kW,2 993 cc,148,Euro 6,45 120 km,2/2019,2
+Mercedes-Benz,CLS 450,59 999 €,Grey,Type of finish,Beige interior,Full leather interior,Coupe,4/5 doors,5,Petrol,Automatic,4x4,270 kW,2 999 cc,178,Euro 6d-TEMP,20 495 km,4/2018,1
+Volkswagen,Tiguan,39 499 €,Black,Type of finish,Black interior,Other interior material,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,147 kW,1 968 cc,142,Euro 6d,16 500 km,12/2021,Used
+Fiat,Tipo,15 949 €,Silver,Type of finish,Black interior,Cloth interior,Station Wagon,4/5 doors,5,Diesel,Manual,4x2,88 kW,1 598 cc,116,Euro 6d-TEMP,46 800 km,11/2020,Used
+Mercedes-Benz,CLA 220 Shooting Brake,39 949 €,Silver,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 950 cc,116,Euro 6d,8 000 km,9/2021,Used
+BMW,340,62 549 €,Blue,Type of finish,Brown interior,Full leather interior,Station Wagon,4/5 doors,5,Petrol,Automatic,4x4,275 kW,2 998 cc,160,Euro 6,19 221 km,4/2021,Used
+Skoda,Kodiaq,25 699 €,Grey,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x2,110 kW,1 968 cc,129,Euro 6d-TEMP,118 800 km,3/2019,1
+Tesla,Model Y,65 049 €,Black,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Electric,Automatic,4x4,378 kW,Euro 6d-TEMP,79,No,14 836 km,2/2022,1
+Mercedes-Benz,C 300,31 499 €,White,Interior color,Part leather interior,Station Wagon,4/5 doors,5,None,Diesel,Automatic,4x4,180 kW,1 950 cc,141,Euro 6d-TEMP,47 000 km,12/2018,09/2023
+Seat,Tarraco,35 449 €,Grey,Interior color,Velour interior,SUV / offroad,4/5 doors,5,None,Diesel,Automatic,4x2,110 kW,1 968 cc,120,Euro 6,25 000 km,7/2021,Used
+Mercedes-Benz,E 450,51 049 €,Black,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x4,270 kW,2 996 cc,192,Euro 6d,27 650 km,8/2019,2
+Suzuki,SX4,5 549 €,Silver,Type of finish,Grey interior,Cloth interior,SUV / offroad,4/5 doors,5,Petrol,Manual,4x2,88 kW,1 586 cc,143,Euro 4,148 500 km,11/2010,Used
+Mercedes-Benz,CLA 220 Shooting Brake,37 149 €,Silver,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 950 cc,112,Euro 6d-TEMP,8 306 km,6/2020,1
+Mercedes-Benz,E 400,45 699 €,White,Interior color,Cloth interior,Station Wagon,4/5 doors,5,1995,Diesel,Automatic,4x4,250 kW,2 925 cc,154,Euro 6d-TEMP,59 356 km,5/2020,Used
+Dacia,Duster,5 899 €,Blue,Interior color,Cloth interior,SUV / offroad,4/5 doors,5,None,Petrol,Manual,4x2,77 kW,1 598 cc,185,Euro 4,157 000 km,5/2010,11/2022
+Mercedes-Benz,C 180,10 899 €,Black,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,5,Petrol,Manual,4x2,115 kW,1 595 cc,136,Euro 6,145 000 km,3/2013,2
+MINI,Cooper S Clubman,17 949 €,Green,Type of finish,Black interior,Other interior material,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x2,141 kW,1 998 cc,147,Euro 6,61 000 km,6/2016,Used
+Land Rover,Range Rover Velar,53 249 €,Silver,Interior color,Full leather interior,SUV / offroad,4/5 doors,5,None,Diesel,Automatic,4x4,221 kW,2 993 cc,167,Euro 6,53 080 km,9/2017,2
+BMW,135,52 449 €,White,Type of finish,Black interior,Part leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x4,225 kW,2 979 cc,194,Euro 6d-TEMP,25 300 km,4/2021,Used
+Peugeot,3008,32 649 €,Grey,Type of finish,Other interior color,Other interior material,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x2,96 kW,1 499 cc,107,No emission class,16 344 km,2/2022,Used
+Mercedes-Benz,E 220,49 499 €,Black,Type of finish,Black interior,Cloth interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,143 kW,1 950 cc,120,No emission class,30 000 km,4/2021,Demonstration car
+Tesla,Model 3,45 799 €,Blue,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Electric,Automatic,4x2,208 kW,Euro 6d-TEMP,60,No,7 625 km,3/2022,1
+BMW,340,57 249 €,Blue,Type of finish,Beige interior,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x4,250 kW,2 993 cc,139,Euro 6d,13 988 km,6/2021,1
+Audi,A4,23 099 €,Red,Interior color,Other interior material,Station Wagon,4/5 doors,5,None,Diesel,Automatic,4x4,110 kW,1 968 cc,145,Euro 6,100 136 km,7/2019,2
+Audi,Q3,40 349 €,Grey,Type of finish,Black interior,Part leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x2,110 kW,1 968 cc,144,Euro 6d,13 000 km,6/2022,1
+Dodge,RAM,54 299 €,White,Interior color,Full leather interior,Pick-up,4/5 doors,5,None,LPG,Automatic,4x2,295 kW,5 654 cc,298,Euro 6,6 860 km,7/2019,06/2024
+Maserati,Ghibli,61 449 €,Red,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x2,316 kW,2 979 cc,223,No emission class,28 600 km,5/2019,Used
+Mercedes-Benz,CLA 220,37 899 €,Grey,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 950 cc,140,Euro 6d,32 689 km,6/2021,Used
+Mercedes-Benz,A 220,39 099 €,Red,Type of finish,Black interior,Part leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 950 cc,114,Euro 6,17 300 km,5/2021,Demonstration car
+Cupra,Leon,29 599 €,Grey,Type of finish,Black interior,Alcantara interior,Station Wagon,4/5 doors,None,Petrol,Automatic,4x4,221 kW,1 984 cc,168,Euro 6d,37 950 km,6/2020,1
+Audi,RS3,47 849 €,Blue,Type of finish,Black interior,Full leather interior,Station Wagon,4/5 doors,5,Petrol,Automatic,4x4,294 kW,2 480 cc,194,No emission class,40 356 km,7/2019,1
+Mercedes-Benz,GLC 400,53 099 €,Black,Interior color,Part leather interior,SUV / offroad,4/5 doors,5,None,Diesel,Automatic,4x4,243 kW,2 925 cc,187,Euro 6d,75 803 km,7/2020,1
+Mercedes-Benz,GLC 400,55 749 €,White,Interior color,Cloth interior,SUV / offroad,4/5 doors,5,None,Diesel,Automatic,4x4,243 kW,2 925 cc,168,No emission class,65 196 km,3/2020,1
+Audi,Q5,42 599 €,Grey,Type of finish,Brown interior,Part leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,210 kW,2 967 cc,162,Euro 6d-TEMP,103 758 km,2/2020,1
+BMW,530,43 699 €,Blue,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x4,195 kW,2 993 cc,148,Euro 6,55 000 km,4/2020,2
+Audi,S3,54 549 €,Grey,Type of finish,Black interior,Alcantara interior,Sedans / saloons,4/5 doors,None,Petrol,Automatic,4x4,228 kW,1 984 cc,171,Euro 6d,9 336 km,5/2021,Used
+Suzuki,Swift,6 699 €,Silver,Type of finish,Black interior,Cloth interior,Compact,4/5 doors,5,Petrol,Automatic,4x2,75 kW,1 490 cc,153,Euro 4,93 500 km,3/2009,2
+Audi,A1,24 349 €,Grey,Type of finish,Black interior,Cloth interior,Compact,4/5 doors,5,Petrol,Manual,4x2,81 kW,999 cc,110,Euro 6d,3 700 km,5/2021,Used
+Cupra,Ateca,34 099 €,Blue,Interior color,Alcantara interior,SUV / offroad,4/5 doors,5,None,Petrol,Automatic,4x4,221 kW,1 984 cc,168,Euro 6d-TEMP,23 500 km,8/2020,1
+Audi,SQ2,42 099 €,Grey,Interior color,Part leather interior,SUV / offroad,4/5 doors,5,None,Petrol,Automatic,4x4,221 kW,1 984 cc,160,Euro 6,28 818 km,1/2020,1
+Mercedes-Benz,GLC 400,56 399 €,Black,Type of finish,Black interior,Other interior material,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,243 kW,2 925 cc,168,Euro 6d-TEMP,49 556 km,6/2020,1
+BMW,220,33 549 €,Silver,Type of finish,Beige interior,Full leather interior,MPV/VAN,4/5 doors,5,Diesel,Automatic,4x4,140 kW,1 995 cc,119,Euro 6d,43 400 km,10/2021,Used
+Mercedes-Benz,E 450,43 399 €,Blue,Type of finish,Black interior,Cloth interior,Station Wagon,4/5 doors,5,Petrol,Automatic,4x4,270 kW,2 996 cc,199,Euro 6d-TEMP,88 821 km,11/2018,1
+Mercedes-Benz,A 250,33 599 €,Silver,Type of finish,Black interior,Part leather interior,Compact,4/5 doors,5,Petrol,Automatic,4x2,165 kW,1 991 cc,154,Euro 6d-TEMP,13 411 km,7/2020,2
+Mercedes-Benz,C 250,27 699 €,Silver,Interior color,Cloth interior,Cabriolet,4/5 doors,5,1675,Diesel,Automatic,4x2,150 kW,2 143 cc,166,Euro 6,146 301 km,5/2018,Used
+BMW,340,57 949 €,White,Interior color,Cloth interior,Sedans / saloons,4/5 doors,5,None,Diesel,Automatic,4x4,250 kW,2 993 cc,139,Euro 6d,8 199 km,7/2021,Used
+Ford,Kuga,28 349 €,Grey,Type of finish,Black interior,Part leather interior,SUV / offroad,4/5 doors,5,Petrol,Automatic,4x4,178 kW,1 999 cc,199,Euro 6,38 300 km,3/2018,1
+BMW,M340i,54 799 €,Black,Type of finish,Black interior,Full leather interior,Station Wagon,4/5 doors,5,Petrol,Automatic,4x4,275 kW,2 998 cc,163,Euro 6d,29 214 km,8/2021,Used
+Jaguar,E-Pace,40 549 €,Grey,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Petrol,Automatic,4x4,221 kW,1 997 cc,203,Euro 6d-TEMP,36 000 km,3/2020,2
+Cupra,Leon,29 399 €,White,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Petrol,Automatic,4x4,221 kW,1 984 cc,161,Euro 6d-TEMP,18 436 km,4/2020,1
+Mercedes-Benz,E 200,27 399 €,Silver,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x4,135 kW,1 991 cc,161,Euro 6,94 678 km,4/2018,1
+BMW,340 Gran Turismo,34 149 €,Silver,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x4,240 kW,2 998 cc,170,Euro 6,37 359 km,4/2019,1
+Volkswagen,Arteon,39 799 €,Grey,Type of finish,Black interior,Alcantara interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x2,140 kW,1 984 cc,128,Euro 6,3 424 km,2/2022,1
+BMW,118,31 649 €,Grey,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x2,110 kW,1 995 cc,115,Euro 6d,12 317 km,5/2021,1
+BMW,220,38 349 €,Blue,Type of finish,Black interior,Full leather interior,Coupe,4/5 doors,5,Diesel,Automatic,4x4,140 kW,1 995 cc,119,Euro 6,6 800 km,5/2021,Used
+Skoda,Karoq,21 499 €,Black,Interior color,Other interior material,SUV / offroad,4/5 doors,5,1265,Petrol,Automatic,4x2,110 kW,1 498 cc,126,No emission class,115 500 km,12/2018,Used
+Mercedes-Benz,GLC 63 S AMG,58 399 €,White,Interior color,Full leather interior,SUV / offroad,4/5 doors,2,None,Petrol,Automatic,4x4,375 kW,3 982 cc,270,Euro 6,58 000 km,5/2018,1
+DS Automobiles,DS9,50 499 €,Blue,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Hybrid,Automatic,4x2,165 kW,1 598 cc,37,No emission class,17 990 km,9/2021,Demonstration car
+Cupra,Ateca,34 599 €,Red,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Petrol,Automatic,4x4,221 kW,1 984 cc,175,Euro 6d-TEMP,21 772 km,1/2020,1
+Mercedes-Benz,CLA 220 Shooting Brake,38 949 €,Black,Interior color,Part leather interior,Station Wagon,4/5 doors,5,None,Diesel,Automatic,4x2,140 kW,1 950 cc,142,Euro 6d,16 992 km,2/2021,1
+DS Automobiles,DS7 Crossback,41 849 €,Grey,Interior color,Velour interior,SUV / offroad,4/5 doors,5,None,Hybrid,Automatic,4x4,221 kW,1 598 cc,34,No emission class,9 515 km,7/2021,Used
+BMW,220,27 849 €,Blue,Type of finish,Black interior,Cloth interior,MPV/VAN,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 995 cc,117,Euro 6d-TEMP,42 500 km,4/2020,Used
+Mercedes-Benz,A 250,32 999 €,Silver,Type of finish,Black interior,Part leather interior,Compact,4/5 doors,5,Petrol,Automatic,4x2,165 kW,1 991 cc,136,Euro 6d,17 043 km,7/2020,1
+Mercedes-Benz,E 450,41 599 €,Black,Interior color,Part leather interior,Station Wagon,4/5 doors,5,None,Petrol,Automatic,4x4,270 kW,2 996 cc,199,Euro 6,106 861 km,2/2019,1
+Audi,Q3,38 749 €,Grey,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x2,110 kW,1 968 cc,119,Euro 6,22 800 km,3/2021,1
+BMW,X1,39 999 €,Silver,Type of finish,Other interior color,Cloth interior,SUV / offroad,4/5 doors,5,Hybrid,Automatic,4x4,162 kW,1 499 cc,132,Euro 6,750 km,12/2021,Used
+Cadillac,XT4,42 099 €,Black,Type of finish,Beige interior,Other interior material,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,128 kW,1 995 cc,176,Euro 6d,6 537 km,6/2022,1
+Audi,S3,45 149 €,Blue,Type of finish,Black interior,Part leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x4,228 kW,1 984 cc,171,Euro 6d,19 702 km,10/2020,1
+BMW,X2,27 749 €,Black,Interior color,Cloth interior,SUV / offroad,4/5 doors,5,None,Diesel,Automatic,4x2,110 kW,1 995 cc,118,Euro 6,50 790 km,9/2019,1
+BMW,340,61 449 €,Blue,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x4,250 kW,2 993 cc,139,Euro 6d,16 262 km,5/2021,1
+Subaru,Outback,32 099 €,Black,Type of finish,Black interior,Cloth interior,Station Wagon,4/5 doors,5,Petrol,Automatic,4x4,129 kW,2 498 cc,166,Euro 6d,42 353 km,10/2020,1
+BMW,M340i,56 849 €,Grey,Type of finish,Black interior,Full leather interior,Station Wagon,4/5 doors,5,Petrol,Automatic,4x4,275 kW,2 998 cc,163,Euro 6,23 408 km,8/2021,Used
+Cupra,Ateca,35 149 €,Blue,Interior color,Part leather interior,SUV / offroad,4/5 doors,5,None,Petrol,Automatic,4x4,221 kW,1 984 cc,198,Euro 6,12 700 km,7/2020,1
+Mercedes-Benz,C 300,41 049 €,Silver,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,180 kW,1 950 cc,130,Euro 6d,25 229 km,6/2020,Used
+Mazda,CX-5,27 549 €,Black,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Petrol,Automatic,4x4,143 kW,2 488 cc,162,Euro 6,49 500 km,3/2018,2
+Cupra,Leon,30 349 €,Red,Interior color,Part leather interior,Station Wagon,4/5 doors,5,None,Petrol,Automatic,4x4,221 kW,1 984 cc,171,Euro 6d-TEMP,19 931 km,3/2020,1
+Mercedes-Benz,A 35 AMG,55 349 €,Grey,Type of finish,Black interior,Part leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x4,225 kW,1 991 cc,169,Euro 6d-TEMP,23 900 km,6/2020,Used
+Audi,A7,63 799 €,Blue,Type of finish,Grey interior,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x4,210 kW,2 967 cc,154,Euro 6d,27 928 km,5/2021,2
+BMW,M135,41 499 €,Black,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x4,225 kW,1 998 cc,167,Euro 6d,8 700 km,4/2021,1
+BMW,135,51 349 €,Black,Type of finish,Black interior,Part leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x4,225 kW,2 979 cc,194,Euro 6d-TEMP,32 800 km,4/2021,Used
+Cupra,Leon,29 299 €,Black,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Petrol,Automatic,4x4,221 kW,1 984 cc,171,Euro 6d-TEMP,28 348 km,3/2020,1
+DFSK,Seres 3,33 999 €,Black,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Electric,Automatic,4x2,120 kW,Euro 6d,53,No,2 000 km,6/2022,Demonstration car
+BMW,440,36 699 €,White,Type of finish,Black interior,Full leather interior,Coupe,4/5 doors,5,Petrol,Automatic,4x4,240 kW,2 998 cc,174,Euro 6,49 818 km,12/2018,Used
+BMW,540,41 299 €,Blue,Type of finish,Beige interior,Full leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x2,250 kW,2 998 cc,161,Euro 6,31 567 km,5/2019,1
+Mercedes-Benz,GLC 400,55 599 €,Black,Interior color,Part leather interior,SUV / offroad,4/5 doors,5,None,Diesel,Automatic,4x4,243 kW,2 925 cc,172,Euro 6d,55 115 km,8/2020,08/2023
+Mercedes-Benz,GLC 400,60 449 €,White,Type of finish,Black interior,Part leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,243 kW,2 925 cc,172,Euro 6d-TEMP,15 300 km,2/2020,1
+BMW,M340i,61 649 €,Grey,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x4,250 kW,2 993 cc,139,Euro 6d,18 500 km,1/2021,1
+Jeep,Wrangler,39 299 €,Black,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Petrol,Manual,4x4,209 kW,3 604 cc,273,Euro 6,37 000 km,1/2018,Used
+BMW,320,41 849 €,Black,Interior color,Other interior material,Station Wagon,4/5 doors,5,1655,Diesel,Manual,4x2,140 kW,1 995 cc,135,Euro 6,10 000 km,4/2022,Demonstration car
+Audi,A4 Allroad,53 249 €,Grey,Type of finish,Brown interior,Full leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x4,210 kW,2 967 cc,150,Euro 6d-TEMP,18 251 km,5/2020,2
+Audi,SQ5,59 549 €,Black,Type of finish,Black interior,Alcantara interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,255 kW,2 967 cc,172,Euro 6d-TEMP,27 098 km,5/2020,1
+Peugeot,5008,6 899 €,Grey,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x2,120 kW,1 997 cc,181,Euro 5,167 414 km,1/2011,3
+BMW,M135,50 649 €,White,Interior color,Cloth interior,Sedans / saloons,4/5 doors,5,None,Petrol,Automatic,4x4,225 kW,1 998 cc,145,Euro 6d,0 km,7/2022,New
+Tesla,Model Y,62 649 €,Grey,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Electric,Automatic,4x4,378 kW,Euro 6d-TEMP,79,No,10 609 km,3/2022,1
+Opel,Grandland X,23 599 €,White,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x2,130 kW,1 997 cc,128,Euro 6d-TEMP,52 200 km,1/2020,Used
+BMW,X3 M40,60 599 €,Black,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,250 kW,2 993 cc,169,Euro 6d,31 856 km,10/2021,1
+BMW,340 Gran Turismo,39 399 €,Black,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x2,240 kW,2 998 cc,166,Euro 6,30 244 km,4/2019,1
+Audi,A7,64 349 €,Black,Interior color,Full leather interior,Sedans / saloons,4/5 doors,4,None,Diesel,Automatic,4x4,210 kW,2 967 cc,154,No emission class,23 442 km,7/2021,1
+Tesla,Model Y,65 749 €,Blue,Type of finish,Other interior color,Full leather interior,Sedans / saloons,4/5 doors,5,Electric,Automatic,4x4,378 kW,Euro 6d-TEMP,79,No,16 396 km,2/2022,1
+Volvo,V40,16 799 €,Black,Type of finish,Black interior,Full leather interior,Compact,4/5 doors,5,Diesel,Automatic,4x2,88 kW,1 969 cc,104,Euro 6,56 962 km,6/2019,1
+Mazda,6,19 549 €,Grey,Interior color,Full leather interior,Sedans / saloons,4/5 doors,5,1636,Diesel,Automatic,4x2,135 kW,2 191 cc,133,Euro 6d,131 966 km,1/2019,Used
+BMW,120,34 149 €,Grey,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 995 cc,121,Euro 6,22 990 km,2/2021,1
+Mercedes-Benz,CLA 220,49 299 €,Grey,Type of finish,Black interior,Part leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 950 cc,109,Euro 6,26 842 km,10/2021,Used
+Mercedes-Benz,E 400,49 399 €,Blue,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x4,250 kW,2 925 cc,154,Euro 6d-TEMP,41 101 km,5/2020,1
+Opel,Crossland X,13 399 €,White,Interior color,Cloth interior,SUV / offroad,4/5 doors,2,None,Diesel,Automatic,4x2,88 kW,1 499 cc,102,Euro 6,100 000 km,3/2019,Used
+Audi,A6,38 849 €,Black,Interior color,Cloth interior,Station Wagon,4/5 doors,5,None,Diesel,Automatic,4x4,210 kW,2 967 cc,151,Euro 6,118 761 km,7/2019,1
+Audi,Q3,42 649 €,Black,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,110 kW,1 968 cc,128,Euro 6d,2 700 km,1/2021,1
+BMW,135,45 799 €,Grey,Type of finish,Other interior color,Cloth interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x4,225 kW,2 979 cc,175,Euro 6d,7 200 km,5/2021,Used
+Dodge,Charger,46 549 €,Red,Interior color,Cloth interior,Sedans / saloons,4/5 doors,5,None,Petrol,Automatic,4x2,362 kW,6 417 cc,333,Euro 6,23 000 km,4/2021,2
+Mercedes-Benz,CLA 35 AMG,55 299 €,Yellow,Interior color,Part leather interior,Coupe,4/5 doors,5,None,Petrol,Automatic,4x4,225 kW,1 991 cc,184,Euro 6d,5 717 km,5/2022,Demonstration car
+Smart,ForFour,8 399 €,White,Interior color,Cloth interior,Compact,4/5 doors,4,875,Petrol,Manual,4x2,52 kW,999 cc,97,Euro 6,16 287 km,6/2015,Used
+Volkswagen,T-Roc,28 899 €,Red,Interior color,Cloth interior,SUV / offroad,4/5 doors,5,None,Petrol,Automatic,4x2,110 kW,1 498 cc,128,No emission class,9 753 km,1/2022,1
+Audi,A4,29 949 €,Black,Interior color,Cloth interior,Station Wagon,4/5 doors,5,None,Petrol,Automatic,4x2,110 kW,1 984 cc,137,Euro 6d-TEMP,17 438 km,2/2020,1
+BMW,X2,45 699 €,Grey,Type of finish,Black interior,Alcantara interior,Coupe,4/5 doors,5,Petrol,Automatic,4x4,225 kW,1 998 cc,155,Euro 6,8 200 km,4/2021,Used
+Audi,A5,46 549 €,Grey,Type of finish,Black interior,Part leather interior,Coupe,4/5 doors,4,Diesel,Automatic,4x4,140 kW,1 968 cc,133,Euro 6d-TEMP,34 650 km,2/2020,2
+BMW,340,54 799 €,Black,Type of finish,Black interior,Full leather interior,Station Wagon,4/5 doors,5,Petrol,Automatic,4x4,275 kW,2 998 cc,163,Euro 6d,29 214 km,8/2021,Used
+Mercedes-Benz,CLS 450,57 449 €,Black,Type of finish,Black interior,Part leather interior,Coupe,4/5 doors,5,Petrol,Automatic,4x4,270 kW,2 999 cc,198,Euro 6d-TEMP,51 179 km,4/2019,1
+Audi,A4,28 899 €,Black,Type of finish,Black interior,Cloth interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,120 kW,1 968 cc,100,Euro 6d-TEMP,73 990 km,3/2020,1
+DFSK,Seres 3,34 199 €,White,Interior color,Full leather interior,SUV / offroad,4/5 doors,5,None,Electric,Automatic,4x2,120 kW,No emission class,53,No,3 000 km,9/2022,Demonstration car
+Volkswagen,Touareg,55 349 €,Black,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,210 kW,2 967 cc,173,Euro 6d-TEMP,25 825 km,12/2019,1
+Volkswagen,Caddy,27 849 €,Beige,Type of finish,Black interior,Cloth interior,Station Wagon,4/5 doors,5,Diesel,Manual,4x2,75 kW,1 968 cc,123,Euro 6d,13 500 km,7/2021,1
+Mercedes-Benz,A 200,19 549 €,Silver,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x2,100 kW,2 143 cc,106,Euro 6,58 380 km,5/2017,1
+Volkswagen,Caddy,22 549 €,White,Interior color,Cloth interior,Cargo VAN,4/5 doors,2,None,Diesel,Automatic,4x2,110 kW,1 968 cc,128,Euro 6,119 970 km,8/2018,1
+Peugeot,508,28 899 €,Blue,Type of finish,Other interior color,Full leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x2,133 kW,1 598 cc,112,Euro 6,11 409 km,6/2021,1
+BMW,430 Gran Coupé,30 999 €,Black,Interior color,Cloth interior,Sedans / saloons,4/5 doors,5,1680,Diesel,Automatic,4x2,190 kW,2 993 cc,134,Euro 6d,95 113 km,4/2019,Used
+Audi,A7,64 299 €,Blue,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x4,210 kW,2 967 cc,154,Euro 6d,28 600 km,5/2021,1
+Mercedes-Benz,A 200,29 849 €,Black,Type of finish,Black interior,Part leather interior,Sedans / saloons,4/5 doors,5,Diesel,Manual,4x2,110 kW,1 950 cc,128,Euro 6d-TEMP,5 109 km,4/2021,1
+Audi,A5,56 249 €,Black,Type of finish,Black interior,Part leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x2,150 kW,1 968 cc,119,Euro 6d,29 249 km,9/2021,Used
+Peugeot,207,5 799 €,Black,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,5,Petrol,Manual,4x2,88 kW,1 598 cc,145,Euro 4,89 000 km,5/2009,2
+BMW,218,31 299 €,None,Interior color,Other interior material,MPV/VAN,4/5 doors,5,None,Petrol,Manual,4x2,104 kW,1 499 cc,132,No emission class,10 205 km,2/2021,Used
+Jaguar,F-Pace,31 449 €,Blue,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Diesel,Manual,4x2,120 kW,1 999 cc,140,Euro 6d-TEMP,35 000 km,8/2019,1
+Audi,A4 Allroad,46 799 €,Black,Type of finish,Black interior,Cloth interior,Station Wagon,4/5 doors,5,Hybrid,Automatic,4x4,150 kW,1 968 cc,126,Euro 6d,11 000 km,8/2021,Used
+BMW,M135,42 049 €,Red,Type of finish,Black interior,Alcantara interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x4,225 kW,1 998 cc,145,Euro 6,19 250 km,9/2021,Used
+Mercedes-Benz,C 400,33 849 €,White,Interior color,Part leather interior,Station Wagon,4/5 doors,5,None,Petrol,Automatic,4x4,245 kW,2 996 cc,189,Euro 6d-TEMP,52 200 km,8/2018,1
+Audi,Q5,52 949 €,White,Interior color,Cloth interior,SUV / offroad,4/5 doors,5,None,Diesel,Automatic,4x4,150 kW,1 968 cc,166,Euro 6d-TEMP,0 km,6/2022,New
+BMW,320,37 899 €,White,Interior color,Cloth interior,Sedans / saloons,4/5 doors,5,None,Diesel,Automatic,4x4,140 kW,1 995 cc,133,Euro 6d,29 299 km,6/2021,1
+Jaguar,E-Pace,40 199 €,Grey,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Petrol,Automatic,4x4,183 kW,1 997 cc,189,Euro 6d-TEMP,21 200 km,3/2020,2
+Peugeot,3008,9 649 €,White,Interior color,Full leather interior,MPV/VAN,4/5 doors,5,None,Diesel,Automatic,4x2,120 kW,1 997 cc,169,Euro 5,129 900 km,9/2012,2
+BMW,530,57 449 €,Black,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x4,210 kW,2 993 cc,119,Euro 6d,25 233 km,11/2020,1
+Polestar,2,62 699 €,Grey,Type of finish,Grey interior,Cloth interior,Sedans / saloons,4/5 doors,5,Electric,Automatic,4x4,300 kW,Euro 6d,78,No,6 000 km,9/2022,Demonstration car
+Volkswagen,Passat,27 799 €,Blue,Type of finish,Black interior,Cloth interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 968 cc,119,Euro 6,38 814 km,7/2019,1
+DS Automobiles,DS9,51 099 €,Blue,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Hybrid,Automatic,4x2,165 kW,1 598 cc,37,No emission class,17 990 km,9/2021,Demonstration car
+BMW,340,55 099 €,White,Interior color,Full leather interior,Sedans / saloons,4/5 doors,5,None,Diesel,Automatic,4x4,250 kW,2 993 cc,139,Euro 6,9 100 km,2/2021,1
+BMW,M340i,57 949 €,Black,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x4,275 kW,2 998 cc,177,Euro 6d,14 801 km,7/2021,Used
+Audi,A1,21 949 €,Green,Interior color,Cloth interior,Compact,4/5 doors,5,1175,Petrol,Manual,4x2,70 kW,999 cc,127,Euro 6c,7 550 km,4/2021,Used
+Mercedes-Benz,E 400,37 349 €,Grey,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Petrol,Automatic,4x4,245 kW,3 498 cc,180,Euro 6,59 988 km,1/2018,Used
+Volkswagen,Arteon,44 649 €,Black,Type of finish,Black interior,Full leather interior,Coupe,4/5 doors,5,Diesel,Automatic,4x4,147 kW,1 968 cc,162,Euro 6,24 267 km,11/2020,Demonstration car
+Mercedes-Benz,CLS 450,63 799 €,Silver,Type of finish,Black interior,Full leather interior,Coupe,4/5 doors,5,Petrol,Automatic,4x4,270 kW,2 999 cc,183,Euro 6d-TEMP,6 692 km,7/2020,Used
+BMW,M135,41 899 €,Black,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x4,225 kW,1 998 cc,145,Euro 6,18 450 km,7/2021,Used
+BMW,X2,42 449 €,Grey,Type of finish,Other interior color,Cloth interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 995 cc,115,Euro 6,18 155 km,2/2021,Used
+BMW,320,24 499 €,Black,Interior color,Cloth interior,Station Wagon,4/5 doors,5,None,Diesel,Automatic,4x2,140 kW,1 995 cc,127,Euro 6,84 300 km,1/2019,1
+Audi,A3,34 499 €,Silver,Type of finish,Black interior,Other interior material,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x2,110 kW,1 968 cc,101,Euro 6d,19 900 km,7/2021,1
+Mercedes-Benz,C 220,39 349 €,Black,Type of finish,Black interior,Cloth interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x4,143 kW,1 950 cc,136,Euro 6d,8 570 km,1/2021,1
+Hyundai,i10,3 299 €,Black,Interior color,Cloth interior,Compact,4/5 doors,5,None,Petrol,Manual,4x2,49 kW,1 086 cc,123,No emission class,173 900 km,9/2009,1
+BMW,125,21 499 €,Red,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x2,165 kW,1 995 cc,127,Euro 6,130 400 km,2/2019,1
+Jaguar,E-Pace,32 099 €,Black,Type of finish,Other interior color,Full leather interior,SUV / offroad,4/5 doors,5,Petrol,Automatic,4x4,147 kW,1 997 cc,202,Euro 6d-TEMP,42 963 km,2/2020,2
+Volkswagen,Touareg,47 849 €,Black,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,210 kW,2 967 cc,217,Euro 6d-TEMP,142 172 km,1/2019,1
+Audi,Q2,32 799 €,Blue,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Petrol,Automatic,4x2,110 kW,1 498 cc,116,Euro 6d,13 697 km,2/2021,1
+Mercedes-Benz,A 220,35 999 €,Blue,Type of finish,Black interior,Part leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 950 cc,114,Euro 6d-TEMP,8 900 km,7/2021,1
+BMW,430 Gran Coupé,55 849 €,Black,Type of finish,Other interior color,Full leather interior,Coupe,4/5 doors,5,Petrol,Automatic,4x2,180 kW,1 998 cc,129,Euro 6d,5 102 km,2/2022,Used
+BMW,218,24 649 €,Blue,Type of finish,Brown interior,Full leather interior,MPV/VAN,4/5 doors,5,Diesel,Automatic,4x4,110 kW,1 995 cc,123,Euro 6d-TEMP,117 500 km,3/2020,Used
+BMW,440,39 499 €,Blue,Type of finish,Grey interior,Cloth interior,Coupe,4/5 doors,5,Petrol,Automatic,4x2,240 kW,2 998 cc,165,Euro 6d-TEMP,32 300 km,6/2019,Used
+Volkswagen,Tiguan Allspace,44 549 €,Blue,Type of finish,Black interior,Alcantara interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,147 kW,1 968 cc,153,Euro 6d,4 200 km,12/2021,1
+Audi,S4,53 099 €,Black,Type of finish,Black interior,Alcantara interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x4,255 kW,2 967 cc,163,Euro 6d-TEMP,52 500 km,1/2020,1
+Peugeot,208,9 849 €,White,Interior color,Other interior material,Compact,4/5 doors,2,None,Diesel,Manual,4x2,74 kW,1 499 cc,98,No emission class,113 167 km,2/2019,Used
+Ford,Focus,17 249 €,Blue,Type of finish,Other interior color,Full leather interior,Station Wagon,4/5 doors,5,Diesel,Manual,4x2,136 kW,1 997 cc,119,Euro 6,18 289 km,7/2016,3
+BMW,220,36 749 €,Black,Type of finish,Black interior,Full leather interior,MPV/VAN,4/5 doors,5,Diesel,Automatic,4x4,140 kW,1 995 cc,126,Euro 6,20 644 km,4/2021,Used
+Volkswagen,Tiguan,37 349 €,Grey,Interior color,Alcantara interior,SUV / offroad,4/5 doors,5,None,Petrol,Automatic,4x4,169 kW,1 984 cc,167,Euro 6d-TEMP,14 934 km,6/2020,1
+Audi,Q2,27 849 €,Black,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Petrol,Manual,4x2,110 kW,1 395 cc,119,Euro 6,21 100 km,3/2021,1
+Mercedes-Benz,E 220,28 849 €,Grey,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x4,143 kW,1 950 cc,138,Euro 6c,133 400 km,10/2018,1
+BMW,M340i,52 799 €,Grey,Type of finish,Black interior,Cloth interior,Station Wagon,4/5 doors,5,Petrol,Automatic,4x4,275 kW,2 998 cc,172,Euro 6d-TEMP,54 247 km,3/2020,1
+Volkswagen,Touareg,53 199 €,White,Interior color,Full leather interior,SUV / offroad,4/5 doors,5,None,Diesel,Automatic,4x4,210 kW,2 967 cc,214,Euro 6d-TEMP,94 500 km,2/2019,1
+Tesla,Model Y,61 149 €,Red,Type of finish,Other interior color,Full leather interior,SUV / offroad,4/5 doors,None,Electric,Automatic,4x4,366 kW,No emission class,No,Included,23 300 km,3/2022,1
+BMW,X2,28 849 €,Gold,Type of finish,Other interior color,Cloth interior,SUV / offroad,4/5 doors,5,Petrol,Automatic,4x2,141 kW,1 998 cc,128,Euro 6d-TEMP,47 555 km,6/2020,Used
+BMW,M140i,40 849 €,Black,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x2,250 kW,2 998 cc,168,Euro 6d-TEMP,5 000 km,7/2019,1
+Mercedes-Benz,GLA 250,42 399 €,Black,Interior color,Cloth interior,SUV / offroad,4/5 doors,5,None,Petrol,Automatic,4x4,165 kW,1 991 cc,173,Euro 6d,8 155 km,6/2020,1
+Toyota,C-HR,31 849 €,Purple,Type of finish,Grey interior,Cloth interior,SUV / offroad,4/5 doors,5,Hybrid,Automatic,4x2,135 kW,1 987 cc,120,Euro 6d,5 km,3/2022,1
+Mercedes-Benz,GLC 350,34 199 €,Grey,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,190 kW,2 987 cc,159,Euro 6,137 700 km,4/2018,1
+Volkswagen,Amarok,37 249 €,Blue,Type of finish,Black interior,Alcantara interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,150 kW,2 967 cc,211,Euro 6,95 550 km,4/2019,1
+Mercedes-Benz,CLA 220,38 749 €,Grey,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 950 cc,140,Euro 6d,32 689 km,6/2021,Used
+BMW,340,56 199 €,Grey,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x4,250 kW,2 993 cc,160,Euro 6d,12 998 km,2/2021,1
+Mercedes-Benz,GLB 35 AMG,58 549 €,Black,Interior color,Full leather interior,SUV / offroad,4/5 doors,5,None,Petrol,Automatic,4x4,225 kW,1 991 cc,181,Euro 6d-TEMP,14 900 km,7/2022,Demonstration car
+BMW,430,31 999 €,Red,Type of finish,Black interior,Full leather interior,Coupe,4/5 doors,5,Diesel,Automatic,4x2,190 kW,2 993 cc,144,Euro 6c,63 346 km,5/2018,Used
+DS Automobiles,DS4,40 849 €,Grey,Type of finish,Black interior,Part leather interior,Sedans / saloons,4/5 doors,5,Hybrid,Automatic,4x2,165 kW,1 598 cc,32,Euro 6d-TEMP,5 km,6/2022,New
+Mercedes-Benz,E 400,48 449 €,Blue,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x4,250 kW,2 925 cc,186,Euro 6d-TEMP,50 000 km,1/2019,1
+Mercedes-Benz,A 200,32 049 €,White,Interior color,Part leather interior,Sedans / saloons,4/5 doors,5,None,Diesel,Automatic,4x4,110 kW,1 950 cc,121,Euro 6d,17 206 km,11/2020,1
+Mercedes-Benz,E 300,37 349 €,Grey,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,180 kW,1 950 cc,144,Euro 6d-TEMP,68 865 km,11/2018,Used
+Mercedes-Benz,GLC 220,47 949 €,Black,Interior color,Velour interior,SUV / offroad,4/5 doors,5,None,Diesel,Automatic,4x4,143 kW,1 950 cc,137,Euro 6d-TEMP,9 250 km,3/2021,Used
+Audi,S7,63 749 €,Red,Type of finish,Black interior,Alcantara interior,Sedans / saloons,4/5 doors,4,Diesel,Automatic,4x4,257 kW,2 967 cc,172,Euro 6,79 792 km,8/2019,1
+Mercedes-Benz,CLA 220,41 149 €,Black,Interior color,Part leather interior,Other car styles,4/5 doors,5,None,Diesel,Automatic,4x2,140 kW,1 950 cc,131,Euro 6d-TEMP,11 557 km,1/2021,Used
+BMW,530,38 999 €,Blue,Type of finish,Beige interior,Full leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x4,195 kW,2 993 cc,154,Euro 6d-TEMP,49 118 km,3/2019,1
+Volkswagen,Arteon,46 899 €,White,Interior color,Velour interior,Coupe,4/5 doors,5,None,Diesel,Automatic,4x2,147 kW,1 968 cc,146,Euro 6,7 700 km,3/2022,Demonstration car
+Tesla,Model Y,61 349 €,White,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Electric,Automatic,4x4,378 kW,Euro 6d-TEMP,75,No,9 900 km,3/2022,Used
+Alfa Romeo,Stelvio,50 049 €,Blue,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Petrol,Manual,4x4,206 kW,1 995 cc,158,Euro 6d-TEMP,14 000 km,4/2021,Demonstration car
+BMW,120,23 249 €,Black,Interior color,Cloth interior,Sedans / saloons,4/5 doors,5,None,Diesel,Automatic,4x4,140 kW,1 995 cc,135,Euro 6d-TEMP,64 805 km,4/2019,1
+Jaguar,E-Pace,28 449 €,Black,Interior color,Cloth interior,SUV / offroad,4/5 doors,5,None,Diesel,Manual,4x2,110 kW,1 999 cc,143,Euro 6d-TEMP,40 084 km,2/2020,1
+Audi,Q3,36 199 €,White,Interior color,Cloth interior,SUV / offroad,4/5 doors,5,None,Diesel,Automatic,4x2,110 kW,1 968 cc,142,Euro 6d-TEMP,45 378 km,6/2021,1
+Audi,Q3,36 199 €,White,Interior color,Cloth interior,SUV / offroad,4/5 doors,5,None,Diesel,Automatic,4x2,110 kW,1 968 cc,142,Euro 6d-TEMP,45 378 km,6/2021,1
+Mercedes-Benz,A 250,35 499 €,Red,Type of finish,Black interior,Part leather interior,Compact,4/5 doors,5,Petrol,Automatic,4x2,165 kW,1 991 cc,149,Euro 6d,29 482 km,2/2021,1
+BMW,M3,57 749 €,Black,Type of finish,Black interior,Alcantara interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x4,250 kW,2 993 cc,139,Euro 6,42 596 km,1/2021,1
+BMW,X2,37 299 €,Black,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,140 kW,1 995 cc,122,Euro 6,7 805 km,9/2021,Used
+BMW,440,40 449 €,White,Type of finish,Brown interior,Full leather interior,Coupe,4/5 doors,5,Petrol,Automatic,4x2,240 kW,2 998 cc,200,Euro 6,25 000 km,2/2019,Used
+Chevrolet,Matiz,3 899 €,Black,Interior color,Cloth interior,Sedans / saloons,4/5 doors,5,None,Petrol,Manual,4x2,38 kW,796 cc,127,Euro 4,82 232 km,1/2010,3
+Mercedes-Benz,GLC 400,56 299 €,Blue,Type of finish,Black interior,Part leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,243 kW,2 925 cc,187,Euro 6d,49 935 km,7/2020,1
+Mercedes-Benz,E 220,37 349 €,None,Interior color,Cloth interior,Station Wagon,4/5 doors,5,None,Diesel,Automatic,4x2,143 kW,1 950 cc,158,Euro 6d-TEMP,39 750 km,2/2019,1
+Mercedes-Benz,E 350,37 899 €,Black,Interior color,Part leather interior,Station Wagon,4/5 doors,5,None,Diesel,Automatic,4x2,210 kW,2 925 cc,141,Euro 6d-TEMP,86 000 km,2/2020,Used
+BMW,330,45 599 €,Black,Type of finish,Black interior,Cloth interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,210 kW,2 993 cc,146,Euro 6d,24 305 km,2/2021,1
+BMW,M340i,60 649 €,Orange,Type of finish,Brown interior,Full leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x4,275 kW,2 998 cc,180,Euro 6d,13 202 km,5/2021,1
+Volkswagen,Polo,12 799 €,White,Interior color,Other interior material,Compact,4/5 doors,5,None,CNG,Manual,4x2,66 kW,999 cc,105,Euro 6,22 536 km,1/2020,Used
+Cupra,Leon,29 149 €,Red,Interior color,Part leather interior,Station Wagon,4/5 doors,5,None,Petrol,Automatic,4x4,221 kW,1 984 cc,161,Euro 6d-TEMP,20 612 km,6/2020,1
+Mercedes-Benz,E 400,41 299 €,Silver,Type of finish,Black interior,Full leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x4,250 kW,2 925 cc,159,Euro 6d-TEMP,107 523 km,5/2019,1
+Cupra,Ateca,37 899 €,Grey,Type of finish,Other interior color,Other interior material,SUV / offroad,4/5 doors,5,Petrol,Automatic,4x4,221 kW,1 984 cc,175,No emission class,22 076 km,2/2021,Used
+Mercedes-Benz,C 300,54 299 €,Grey,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,195 kW,1 993 cc,137,Euro 6d-TEMP,9 893 km,8/2021,Used
+Tesla,Model 3,56 449 €,White,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Electric,Automatic,4x4,377 kW,No emission class,82,No,22 400 km,6/2021,1
+Renault,Master,41 799 €,Other interior color,Interior material,Other car styles,4/5 doors,3,1956,None,Diesel,Manual,4x2,110 kW,2 298 cc,236,Euro 6d-TEMP,1 142 km,5/2022,Used
+Mercedes-Benz,C 63 S AMG,54 249 €,Grey,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Petrol,Automatic,4x2,375 kW,3 982 cc,196,Euro 6,49 500 km,2/2017,2
+BMW,335,29 899 €,Black,Type of finish,Black interior,Part leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x4,230 kW,2 993 cc,162,Euro 6c,77 000 km,8/2018,1
+Mercedes-Benz,CLA 220,34 099 €,White,Interior color,Part leather interior,Coupe,4/5 doors,5,1560,Diesel,Automatic,4x2,140 kW,1 950 cc,117,Euro 6,101 950 km,8/2019,Used
+Mercedes-Benz,C 300,55 249 €,White,Interior color,Part leather interior,Sedans / saloons,4/5 doors,5,None,Hybrid,Automatic,4x2,150 kW,1 999 cc,13,Euro 6d,9 500 km,7/2022,Demonstration car
+Audi,A3,24 899 €,Black,Interior color,Cloth interior,Cabriolet,4/5 doors,5,1385,CNG,Automatic,4x2,96 kW,1 498 cc,96,No emission class,38 484 km,3/2020,Used
+Mercedes-Benz,E 220,49 949 €,Silver,Type of finish,Black interior,Other interior material,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,143 kW,1 950 cc,128,Euro 6d,10 987 km,7/2021,Used
+Mercedes-Benz,GLC 400,50 049 €,Grey,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,243 kW,2 925 cc,168,Euro 6d,140 000 km,3/2020,1
+Mercedes-Benz,C 180,8 899 €,Black,Type of finish,Black interior,Cloth interior,Station Wagon,4/5 doors,5,Petrol,Manual,4x2,115 kW,1 597 cc,185,Euro 4,150 000 km,3/2009,3
+BMW,340 Gran Turismo,39 349 €,White,Interior color,Full leather interior,Sedans / saloons,4/5 doors,5,None,Petrol,Automatic,4x2,240 kW,2 998 cc,170,No emission class,29 179 km,6/2019,1
+Land Rover,Range Rover Velar,63 249 €,Red,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,177 kW,1 999 cc,169,Euro 6d-TEMP,12 985 km,3/2021,Demonstration car
+Audi,Q2,34 249 €,Silver,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x2,85 kW,1 998 cc,107,Euro 6,6 000 km,2/2022,Used
+Mercedes-Benz,C 300,48 999 €,Black,Type of finish,Black interior,Part leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x2,190 kW,1 999 cc,150,Euro 6d,15 000 km,2/2022,Demonstration car
+Opel,Grandland X,21 349 €,Blue,Interior color,Cloth interior,SUV / offroad,4/5 doors,5,1575,Diesel,Automatic,4x2,130 kW,1 997 cc,126,Euro 6d-TEMP,86 000 km,12/2019,Used
+BMW,M135,52 949 €,Blue,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x4,225 kW,1 998 cc,155,Euro 6d,0 km,6/2022,New
+BMW,420 Gran Coupé,36 849 €,Blue,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x2,135 kW,1 998 cc,140,Euro 6d,12 018 km,6/2021,1
+Alfa Romeo,Stelvio,50 799 €,Black,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,154 kW,2 143 cc,144,Euro 6,1 578 km,11/2021,Used
+Mercedes-Benz,X 250,44 749 €,Silver,Type of finish,Other interior color,Part leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,140 kW,2 298 cc,203,Euro 6,44 103 km,12/2019,1
+Mercedes-Benz,GLC 400,61 699 €,Black,Interior color,Cloth interior,SUV / offroad,4/5 doors,5,None,Diesel,Automatic,4x4,243 kW,2 925 cc,188,Euro 6d-TEMP,19 900 km,5/2022,Demonstration car
+Cadillac,XT4,41 099 €,Silver,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Petrol,Automatic,4x4,169 kW,1 998 cc,213,Euro 6d,24 900 km,8/2021,2
+BMW,118,21 399 €,Black,Interior color,Cloth interior,Sedans / saloons,4/5 doors,5,1495,Diesel,Automatic,4x2,110 kW,1 995 cc,115,Euro 6,50 641 km,1/2019,Used
+Volkswagen,Passat,26 799 €,Red,Interior color,Cloth interior,Station Wagon,4/5 doors,5,None,Diesel,Automatic,4x2,110 kW,1 968 cc,105,Euro 6d-TEMP,67 847 km,5/2020,1
+Audi,A5,32 049 €,Grey,Type of finish,Black interior,Cloth interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 968 cc,119,Euro 6,85 800 km,7/2019,1
+Mercedes-Benz,A 180,26 699 €,Black,Interior color,Part leather interior,Sedans / saloons,4/5 doors,5,None,Diesel,Manual,4x2,85 kW,1 950 cc,129,Euro 6,46 587 km,6/2021,1
+Cupra,Leon,31 449 €,Black,Type of finish,Black interior,Full leather interior,Station Wagon,4/5 doors,5,Petrol,Automatic,4x4,221 kW,1 984 cc,161,Euro 6d-TEMP,14 353 km,5/2020,1
+BMW,430 Gran Coupé,37 349 €,Blue,Type of finish,Black interior,Full leather interior,Coupe,4/5 doors,5,Petrol,Automatic,4x4,185 kW,2 000 cc,144,Euro 6,25 317 km,11/2020,1
+Renault,Master,25 399 €,White,Interior color,Cloth interior,Other car styles,4/5 doors,3,None,Diesel,Manual,4x2,96 kW,2 299 cc,207,Euro 6,70 922 km,9/2019,Used
+BMW,730,61 049 €,Grey,Type of finish,Brown interior,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x2,195 kW,2 993 cc,148,Euro 6,32 990 km,3/2019,2
+Mercedes-Benz,X 250,47 499 €,Black,Type of finish,Other interior color,Other interior material,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,140 kW,2 298 cc,209,Euro 6,44 200 km,2/2020,Used
+Mercedes-Benz,GLC 400,63 699 €,Black,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,243 kW,2 925 cc,172,Euro 6d,19 967 km,12/2020,1
+Cupra,Leon,29 299 €,Black,Interior color,Part leather interior,Station Wagon,4/5 doors,5,None,Petrol,Automatic,4x4,221 kW,1 984 cc,161,Euro 6d-TEMP,28 208 km,4/2020,1
+Volvo,V60,35 549 €,Black,Interior color,Full leather interior,Station Wagon,4/5 doors,5,None,Petrol,Automatic,4x4,228 kW,1 969 cc,167,Euro 6d-TEMP,26 200 km,5/2019,1
+Mercedes-Benz,CLA 220 Shooting Brake,37 899 €,Grey,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 950 cc,140,Euro 6d,32 689 km,6/2021,1
+Ford,Ranger,43 699 €,Grey,Type of finish,Other interior color,Full leather interior,Pick-up,4/5 doors,5,Diesel,Manual,4x4,156 kW,1 996 cc,201,Euro 6c,20 330 km,5/2021,2
+BMW,M135,45 599 €,Grey,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x4,225 kW,1 998 cc,155,Euro 6,8 300 km,1/2022,Used
+Mercedes-Benz,A 250,35 749 €,Black,Interior color,Part leather interior,Compact,4/5 doors,5,None,Hybrid,Automatic,4x2,118 kW,1 332 cc,149,Euro 6d,12 000 km,9/2022,Demonstration car
+Audi,SQ7,53 149 €,Red,Type of finish,Black interior,Alcantara interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,320 kW,3 956 cc,199,Euro 6,139 900 km,6/2017,1
+BMW,118,19 249 €,Black,Type of finish,Brown interior,Full leather interior,Sedans / saloons,4/5 doors,5,Diesel,Manual,4x2,110 kW,1 995 cc,115,Euro 6,88 580 km,2/2019,2
+Audi,A4 Allroad,48 949 €,Black,Type of finish,Black interior,Full leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x4,210 kW,2 967 cc,167,Euro 6,10 386 km,10/2020,Used
+Audi,Q2,26 299 €,Silver,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,140 kW,1 968 cc,128,Euro 6,55 000 km,4/2018,2
+BMW,X2,33 849 €,Orange,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x2,110 kW,1 995 cc,114,Euro 6,8 800 km,1/2021,1
+Dodge,Charger,43 949 €,Black,Interior color,Alcantara interior,Sedans / saloons,4/5 doors,5,None,Petrol,Automatic,4x2,362 kW,6 424 cc,333,Euro 6,34 000 km,9/2020,2
+BMW,X4,38 899 €,Grey,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,230 kW,2 993 cc,157,No emission class,65 620 km,3/2018,Used
+BMW,M140i,39 499 €,Grey,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x2,250 kW,2 998 cc,168,Euro 6,28 833 km,9/2019,2
+Audi,A4,40 349 €,Grey,Type of finish,Black interior,Cloth interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,150 kW,1 968 cc,125,Euro 6d,14 950 km,8/2021,Used
+Audi,A4,26 799 €,White,Interior color,Cloth interior,Station Wagon,4/5 doors,5,None,Diesel,Automatic,4x2,140 kW,1 968 cc,120,Euro 6,90 500 km,5/2019,1
+Cupra,Leon,29 949 €,Black,Type of finish,Black interior,Full leather interior,Station Wagon,4/5 doors,5,Petrol,Automatic,4x4,221 kW,1 984 cc,161,Euro 6d-TEMP,21 619 km,3/2020,1
+Toyota,Land Cruiser,31 899 €,White,Interior color,Cloth interior,SUV / offroad,4/5 doors,7,None,Diesel,Manual,4x4,130 kW,2 755 cc,194,Euro 6,55 868 km,8/2016,1
+Audi,A3,32 449 €,Silver,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x2,110 kW,1 968 cc,102,Euro 6d,24 900 km,6/2021,2
+Audi,Q3,20 049 €,Silver,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,5,Diesel,Manual,4x4,135 kW,1 968 cc,138,Euro 6,94 700 km,5/2017,Used
+Tesla,Model 3,47 049 €,Black,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Electric,Automatic,4x2,208 kW,Euro 6d-TEMP,60,No,9 960 km,3/2022,1
+Seat,Arona,16 349 €,Grey,Type of finish,Grey interior,Cloth interior,SUV / offroad,4/5 doors,5,Diesel,Manual,4x2,70 kW,1 598 cc,113,Euro 6d,43 900 km,8/2019,Used
+BMW,540,63 599 €,White,Interior color,Full leather interior,Station Wagon,4/5 doors,5,None,Diesel,Automatic,4x4,250 kW,2 993 cc,161,Euro 6d,29 299 km,6/2021,1
+Audi,A1,23 049 €,Black,Type of finish,Black interior,Cloth interior,Compact,4/5 doors,5,Petrol,Manual,4x2,81 kW,999 cc,116,Euro 6d,12 345 km,1/2021,1
+MINI,Cooper S Clubman,26 649 €,Green,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Petrol,Automatic,4x2,141 kW,1 998 cc,145,Euro 6d-TEMP,17 222 km,8/2019,1
+Citroen,C5 Aircross,26 299 €,White,Interior color,Cloth interior,SUV / offroad,4/5 doors,5,1615,Diesel,Automatic,4x2,132 kW,1 997 cc,126,Euro 6d-TEMP,13 532 km,12/2019,Used
+MINI,John Cooper Works Countryman,29 199 €,Blue,Type of finish,Beige interior,Velour interior,SUV / offroad,4/5 doors,5,Petrol,Automatic,4x4,170 kW,1 998 cc,138,Euro 6c,15 800 km,7/2019,1
+BMW,320,37 299 €,Black,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,5,Diesel,Automatic,4x2,140 kW,1 995 cc,140,Euro 6d,30 863 km,9/2021,Used
+BMW,M135,41 399 €,Black,Type of finish,Black interior,Cloth interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x4,225 kW,1 998 cc,145,Euro 6,23 400 km,7/2021,Used
+Mercedes-Benz,E 300,51 099 €,White,Type of finish,Black interior,Full leather interior,Station Wagon,4/5 doors,5,Hybrid,Automatic,4x2,155 kW,1 991 cc,46,Euro 6d-TEMP,37 140 km,7/2021,1
+Tesla,Model 3,56 349 €,Black,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Electric,Automatic,4x4,350 kW,Euro 6d-TEMP,79,No,7 846 km,2/2022,1
+Mercedes-Benz,CLA 45 AMG,60 499 €,White,Interior color,Part leather interior,Station Wagon,4/5 doors,5,1710,Petrol,Automatic,4x4,285 kW,1 991 cc,162,Euro 6d,21 185 km,2/2021,Used
+Toyota,Aygo X,21 999 €,Green,Type of finish,Black interior,Cloth interior,SUV / offroad,4/5 doors,4,Petrol,Automatic,4x2,53 kW,998 cc,109,Euro 6d,1 300 km,4/2022,Demonstration car
+Mercedes-Benz,E 220,32 049 €,Silver,Type of finish,Black interior,Part leather interior,Station Wagon,4/5 doors,5,Diesel,Automatic,4x2,143 kW,1 950 cc,159,Euro 6d-TEMP,73 170 km,6/2019,1
+BMW,220,49 549 €,Black,Type of finish,Black interior,Full leather interior,Sedans / saloons,4/5 doors,5,Petrol,Automatic,4x2,135 kW,1 998 cc,144,No emission class,0 km,7/2022,New
+Dodge,Durango,54 399 €,Grey,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,6,Petrol,Automatic,4x4,268 kW,5 654 cc,387,Euro 5,21 958 km,7/2021,2
+BMW,X3 M40,60 649 €,Black,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,5,Diesel,Automatic,4x4,250 kW,2 993 cc,184,Euro 6d,29 699 km,8/2021,Used
+Audi,SQ7,62 149 €,Silver,Type of finish,Black interior,Full leather interior,SUV / offroad,4/5 doors,2345,Diesel,Automatic,4x4,320 kW,3 956 cc,199,Euro 6,62 412 km,6/2017,Used
