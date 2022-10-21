@@ -8,8 +8,8 @@ This repository contains a collection of tools, scripts and projects that focus 
 <ol>
 
 <li><a href="#about-the-project"> About the project</a></li>
-<li><a href="#folder-structure">  Folder Structure</a></li>
 <li><a href="#prerequisites">  Prerequisites</a></li>
+<li><a href="#folder-structure">  Folder Structure</a></li>
 <li> Projects
 <ul>
 <li>Scraping salaries data from <a href='https://www.salary.com/'>Salary.com</a></li>
