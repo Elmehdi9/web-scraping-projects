@@ -56,7 +56,24 @@ The following open source packages are used in this project:
 
 ## Folder structure
 
-
+    |-- undefined
+        |-- README.md
+        |-- data-directory
+        |   |-- books_data.csv
+        |   |-- cars.csv
+        |   |-- movies.csv
+        |   |-- real_estate.csv
+        |   |-- salary_data.csv
+        |   |-- transfers_data.csv
+        |-- notebooks
+            |-- Amazon.ipynb
+            |-- Carvago.ipynb
+            |-- Cineb_movies.ipynb
+            |-- Real estate.ipynb
+            |-- Salaries.ipynb
+            |-- Transfermarkt.ipynb
+            |-- Understat.ipynb
+            |-- .ipynb_checkpoints
 
 
 
