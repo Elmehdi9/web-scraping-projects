@@ -55,7 +55,7 @@ The following open source packages are used in this project:
 
 ## Folder structure
 
-    |-- undefined
+    |-- web-scraping-projects
         |-- README.md
         |-- data-directory
         |   |-- books_data.csv
